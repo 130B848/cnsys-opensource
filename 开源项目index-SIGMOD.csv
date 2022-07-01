@@ -1,113 +1,95 @@
-﻿年份,领域大类,tag,研究领域,论文标题,作者,论文链接,项目名,项目链接
-2022,"数据库系统,形式化验证","SQL优化,数据库事务",Query Processing and Optimization,WeTune: Automatic Discovery and Verification of Query Rewrite Rules,"Zhaoguo Wang, Shanghai Jiao Tong University & Ministry of Education of the People's Republic of China; et al.",https://dl.acm.org/doi/10.1145/3514221.3526125#pill-authors__contentcon,WeTune,https://ipads.se.sjtu.edu.cn:1312/opensource/wetune
-2021,数据库系统,,Data and Graph Mining,Boosting Graph Similarity Search through Pre-Computation,"Jongik Kim, Jeonbuk National University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452780,Nass,https://github.com/JongikKim/Nass
-2021,大数据系统,,Data and Graph Mining,Accelerating Triangle Counting on GPU,"Lin Hu, Peking University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452815,accelerating-TC,https://github.com/pkumod/accelerating-TC
-2021,大数据系统,,Data and Graph Mining,"Graphsurge: Graph Analytics on View Collections Using
-Differential Computation","Siddhartha Sahu, University of Waterloo; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452837,graphsurge,https://github.com/dsg-uwaterloo/graphsurge
-2021,大数据系统,,Data and Graph Mining,"Unifying the Global and Local Approaches:
-An Efficient Power Iteration with Forward Push","Hao Wu, The University of Melbourne; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457298,Personalized-PageRank,https://github.com/wuhao-wu-jiang/Personalized-PageRank
-2021,大数据系统,,Data and Graph Mining,"PathEnum: Towards Real-Time Hop-Constrained s-t Path
-Enumeration","Shixuan Sun, National University of Singapore; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457290,PathEnum,https://github.com/Xtra-Computing/PathEnum
-2021,数据库系统,,Data Curation and Integration,Auto-FuzzyJoin: Auto-Program Fuzzy Similarity Joins Without Labeled Examples,"Peng Li, Georgia Institute of Technology; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452824,AutomaticFuzzyJoin,https://github.com/chu-data-lab/AutomaticFuzzyJoin
-2021,数据库系统,,Data Curation and Integration,BullFrog: Online Schema Evolution via Lazy Evaluation,"Souvik Bhattacherjee, ServiceNow & University of Maryland; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452842,BullFrog,https://github.com/DSLAM-UMD/BullFrog
-2021,大数据系统,,Data for Data Science,LIMA: Fine-grained Lineage Tracing and Reuse in Machine Learning Systems,"Arnab Phani, Graz University of Technology; et al.",https://dl.acm.org/doi/10.1145/3448016.3452788,systemds,https://github.com/apache/systemds
-2021,数据库系统,,Data for Data Science,Conformance Constraint Discovery: Measuring Trust in Data-Driven Systems,"Anna Fariha, Microsoft & University of Massachusetts Amherst; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452795, CCSynth,https://github.com/microsoft/prose/tree/main/misc/CCSynth
-2021,数据库系统,,Data for Data Science,Multiple Dynamic Outlier-Detection from a Data Stream by Exploiting Duality of Data and Queries,"Susik Yoon, KAIST; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452810,MDUAL,https://github.com/kaist-dmlab/MDUAL
-2021,数据库系统,,Data for Data Science,Why Not Match: On Explanations of Event Pattern Queries,"Shaoxu Song, Tsinghua University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452818,explanation,https://github.com/explanation-event-pattern/explanation
-2021,数据库系统,,Data for Data Science,ReStore - Neural Data Completion for Relational Databases,"Benjamin Hilprecht, Technical University of Darmstadt; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457264,restore,https://github.com/DataManagementLab/restore
-2021,大数据系统,,Data for Data Science,Looking for Trouble: Analyzing Classifier Behavior via Pattern Divergence,"Eliana Pastor, Politecnico di Torino; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457284,DivExplorer,https://divexplorer.github.io/
-2021,大数据系统,,Data for Data Science,REDS: Rule Extraction for Discovering Scenarios,"Vadim Arzamasov, Karlsruhe Institute of Technology; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457301,REDS_experiments,https://github.com/Arzik1987/REDS_experiments
-2021,大数据系统,,Data Management for ML,"HedgeCut: Maintaining Randomised Trees
-for Low-Latency Machine Unlearning","Sebastian Schelter, University of Amsterdam; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457239,"hedgecut
-Public",https://github.com/schelterlabs/hedgecut
-2021,大数据系统,,Data Management for ML,Towards Demystifying Serverless Machine Learning Training,"Jiawei Jiang, ETH Zurich; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3459240,LambdaML,https://github.com/DS3Lab/LambdaML
-2021,大数据系统,,Data Structures,"Fast Processing and Querying of 170TB of Genomics Data via a
-Repeated And Merged BloOm Filter (RAMBO)","Gaurav Gupta, Rice University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457333,RAMBO_MSMT,https://github.com/gaurav16gupta/RAMBO_MSMT
-2021,数据库系统,,Data Structures,"COMPASS: Online Sketch-based Query Optimization for
-In-Memory Databases","Yesdaulet Izenov, University of California Merced; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452840,compass_query_optimizer,https://github.com/yizenov/compass_query_optimizer
-2021,数据库系统,,Data Structures,Adaptive Compression for Fast Scans on String Columns,"Yannis Foufoulas, University of Athens & Athena Research Center; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452798,arcade,https://github.com/madgik/arcade
-2021,并行与分布式系统,,Distributed and Cloud,"PigPaxos: Devouring the Communication Bottlenecks in
-Distributed Consensus","Aleksey Charapko, University of New Hampshire; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452834,pigpaxos,https://github.com/pigpaxos/pigpaxos
-2021,数据库系统,,Graph Data Management,A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation,"Peizhi Wu, Singtel Cognitive and Artificial Intelligence Lab for Enterprises@NTU; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452830,UAE,https://github.com/pagegitss/UAE
-2021,大数据系统,,Graph Data Management,"Parallel Index-Based Structural Graph Clustering and Its
-Approximation","Tom Tseng, Massachusetts Institute of Technology; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457278,IndexBased,https://github.com/ParAlg/gbbs/tree/master/benchmarks/SCAN/IndexBased
-2021,大数据系统,,Graph Data Management,Incrementalizing Graph Algorithms,"Wenfei Fan, University of Edinburgh & Shenzhen Institute of Computing Sciences; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452796,Dynamic-Graph-Algorithms,https://github.com/yogesh1q2w/Dynamic-Graph-Algorithms
-2021,大数据系统,,Graph Data Management,Cache-Efficient Fork-Processing Patterns on Large Graphs,"Shengliang Lu, National University of Singapore; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457253,ForkGraph,https://github.com/Xtra-Computing/ForkGraph
-2021,大数据系统,,Graph Data Management,"LightNE: A Lightweight Graph Processing System for Network
-Embedding","Jiezhong Qiu, Tsinghua University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457329,LightNE,https://github.com/xptree/LightNE
-2021,大数据系统,,Graph Data Management,Hybrid Edge Partitioner,"Ruben Mayer, Technical University of Munich; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457300,hybrid_edge_partitioner,https://github.com/mayerrn/hybrid_edge_partitioner
-2021,大数据系统,,High Performance Systems,Klink: Progress-Aware Scheduling for Streaming Data Systems,"Omar Farhat, University of Waterloo; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452794,klink,https://github.com/klink-scheduler/klink
-2021,大数据系统,,High Performance Systems,"To Partition, or Not to Partition,
-That is the Join Question in a Real System","Maximilian Bandle, Technische Universität München; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452831,pcm,https://github.com/opcm/pcm
-2021,大数据系统,,High Performance Systems,MxTasks: How to Make Efficient Synchronization and Prefetching Easy,"Jan Mühlig, TU Dortmund University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457268,mxtasking,https://github.com/jmuehlig/mxtasking
-2021,大数据系统,,High Performance Systems,DFI: The Data Flow Interface for High-Speed Networks,"Lasse Thostrup, TU Darmstadt; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452816,DFI-public,https://github.com/DataManagementLab/DFI-public
-2021,大数据系统,,High Performance Systems,CoRM: Compactable Remote Memory over RDMA,"Konstantin Taranov, ETH Zurich; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452817,CoRM,https://github.com/spcl/CoRM
-2021,大数据系统,,High Performance Systems,"Maximizing Persistent Memory Bandwidth
-Utilization for OLAP Workloads","Björn Daase, Hasso Plattner Institute, University of Potsdam,; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457292,pmem-olap,https://github.com/hpides/pmem-olap
-2021,大数据系统,,High Performance Systems,"Nova-LSM: A Distributed, Component-based LSM-tree
-Key-value Store","Haoyu Huang, University of Southern California; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457297,NovaLSM,https://github.com/HaoyuHuang/NovaLSM
-2021,大数据系统,,Interactive Data Exploration,"Synthesizing Natural Language to Visualization (NL2VIS)
-Benchmarks from NL2SQL Benchmarks","Yuyu Luo, Tsinghua University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457261,nvBench,https://github.com/TsinghuaDatabaseGroup/nvBench
-2021,大数据系统,,Interactive Data Exploration,"DataPrep.EDA: Task-Centric Exploratory Data Analysis
-for Statistical Modeling in Python","Jinglin Peng, Simon Fraser University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457330,dataprep,https://github.com/sfu-db/dataprep
-2021,大数据系统,,ML-based Data Management,"Rotom: A Meta-Learned Data Augmentation Framework for Entity Matching, Data Cleaning, Text Classification, and Beyond","Zhengjie Miao, Duke University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457258,rotom,https://github.com/megagonlabs/rotom
-2021,大数据系统,,ML-based Data Management,"Expand your Training Limits!
-Generating Training Data for ML-based Data Management","Francesco Ventura, Politecnico di Torino; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457286,data-farm,https://github.com/agora-ecosystem/data-farm
-2021,数据库系统,,"NL Querying and
-Recommendations",Scalable and Usable Relational Learning With Automatic Language Bias,"Jose Picado, Oregon State University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457275,AutoBias,github.com/OSU-IDEA-Lab/AutoBias.
-2021,数据库系统,,"NL Querying and
-Recommendations",Marrying Top-k with Skyline Queries: Relaxing the Preference Input while Producing Output of Controllable Size,"Kyriakos Mouratidis, Singapore Management University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457299,ordu,https://github.com/ghlkm/ordu
-2021,数据库系统,,"Query Processing
-and Optimization",Small Selectivities Matter: Lifting the Burden of Empty Samples,"Axel Hertzschuch, Technische Universität Dresden; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452805,BetaEstimator,https://github.com/axhertz/BetaEstimator
-2021,数据库系统,,"Query Processing
-and Optimization","The Power of Nested Parallelism in Big Data Processing
-– Hitting Three Flies with One Slap -","Gábor E. Gévay, Technische Universität Berlin; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457287,Matryoshka-anonymized,https://github.com/anonymous873543/Matryoshka-anonymized
-2021,数据库系统,,"Query Processing
-and Optimization",One WITH RECURSIVE is Worth Many GOTOs,"Denis Hirn, Universität Tübingen; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457272,One-WITH-RECURSIVE-is-Worth-Many-GOTOs,https://github.com/One-WITH-RECURSIVE-is-Worth-Many-GOTOs
-2021,数据库系统,,"Query Processing
-and Optimization",Worst-Case Optimal Graph Joins in Almost No Space,"Diego Arroyuelo, Universidad Técnica Federico Santa María & Millennium Institute for Foundational Research on Data; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457256,Ring,https://github.com/darroyue/Ring
-2021,数据库系统,,"Query Processing
-and Optimization",PGMJoins: Random Join Sampling with Graphical Models,"Ali Mohammadi Shanghooshabad, University of Warwick, Coventry; et al.",https://dl.acm.org/doi/pdf/10.1145/3448016.3457302,PGMJoins,https://github.com/shanghoosh1/PGMJoins
-2021,大数据系统,,"Security, Fairness and Privacy",Slice Tuner: A Selective Data Acquisition Framework for Accurate and Fair Machine Learning Models,"Ki Hyun Tae,KAIST; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452792,SliceTuner,https://github.com/systemT2021/SliceTuner
-2021,大数据系统,,"Security, Fairness and Privacy",Secure Yannakakis: Join-Aggregate Queries over Private Data,"Yilei Wang, Hong Kong University of Science and Technology; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452808,SECYAN,https://github.com/hkustDB/SECYAN
-2021,大数据系统,,"Spatial, Temporal and
-Multimedia Data Management",Fast Parallel Algorithms for Euclidean Minimum Spanning Tree and Hierarchical Spatial Clustering,"Yiqiu Wang,Massachusetts Institute of Technology; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457296,hdbscan,https://github.com/wangyiqiu/hdbscan
-2021,大数据系统,,"Spatial, Temporal and
-Multimedia Data Management","Convergence of Array DBMS and Cellular Automata:
-A Road Traffic Simulation Case","Ramon Antonio Rodriges Zalipynis, HSE University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3458457,movsim,https://github.com/movsim/movsim
-2021,数据库系统,,"Spatial, Temporal and
-Multimedia Data Management","Consistent and Flexible Selectivity Estimation for
-High-Dimensional Data","Yaoshu Wang, Shenzhen University; et al.",https://dl.acm.org/doi/pdf/10.1145/3448016.3452772,SelNet-Estimation,https://github.com/yyssl88/SelNet-Estimation
-2021,大数据系统,,"Spatial, Temporal and
-Multimedia Data Management",Top-K Deep Video Analytics: A Probabilistic Approach,"Ziliang Lai, The Chinese University of Hong Kong; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452786,everest,https://github.com/everest-project/everest
-2021,大数据系统,,"Spatial, Temporal and
-Multimedia Data Management","Fast Density-Peaks Clustering: Multicore-based Parallelization
-Approach","Daichi Amagata, Osaka University & PRESTO; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452781,DPC,https://github.com/amgt-d1/DPC
-2021,大数据系统,,"Spatial, Temporal and
-Multimedia Data Management","Public Transport Planning: When Transit Network Connectivity
-Meets Commuting Demand","Sheng Wang, New York University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457247,ct-bus,https://github.com/tgbnhy/ct-bus
-2021,大数据系统,,"Spatial, Temporal and
-Multimedia Data Management
-","Fast and Exact Outlier Detection in Metric Spaces: A Proximity
-Graph-based Approach","Daichi Amagata, Osaka University & PRESTO; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452782,DOD,https://github.com/amgt-d1/DOD
-2021,大数据系统,,"Spatial, Temporal and
-Multimedia Data Management
-",Point-to-Hyperplane Nearest Neighbor Search Beyond the Unit Hypersphere,"Qiang Huang, National University of Singapore; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457240,P2HNNS,https://github.com/HuangQiang/P2HNNS
-2021,大数据系统,,"Spatial, Temporal and Multimedia Data Management",A Generalized Approach for Reducing Expensive Distance Calls for A Broad Class of Proximity Problems,"Jees Augustine, The University of Texas at Arlington; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457303,metric-space-proximity-algo,https://github.com/jeesaugustine/metric-space-proximity-algo/
-2021,大数据系统,,Streams,Parallelizing Intra-Window Join on Multicores: An Experimental Study,"Shuhao Zhang, Singapore University of Technology and Design; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452793,AllianceDB,https://github.com/intellistream/AllianceDB
-2021,大数据系统,,Streams,Out of Many We are One: Measuring Item Batch with Clock-Sketch,"Peiqing Chen, Peking University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452784,Clock-sketch,https://github.com/Clock-sketch/clock-sketch2020
-2021,大数据系统,,Streams,BurstSketch: Finding Bursts in Data Streams,"Zheng Zhong, Peking University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452775,BurstSketch,https://github.com/BurstSketch/BurstSketch
-2021,大数据系统,,Streams,Sliding Window-based Approximate Triangle Counting over Streaming Graphs with Duplicate Edges,"Xiangyang Gou, Peking University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452800,TriangleCounting,https://github.com/StreamingTriangleCounting/TriangleCounting
-2021,数据库系统,,Streams,Index-Accelerated Pattern Matching in Event Stores,"Michael Körber, University of Marburg; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457245,index-pattern,https://github.com/sigmod2021-index-pattern/index-pattern
-2021,大数据系统,,Streams,"EIRES: Efficient Integration of Remote Data
-in Event Stream Processing","Bo Zhao, Humboldt-Universität zu Berlin; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457304,EIRES,https://github.com/zbjob/EIRES
-2021,大数据系统,,Streams,"To Share, or not to Share Online Event Trend Aggregation Over
-Bursty Event Streams","Olga Poppe, Microsoft Gray Systems Lab; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452785,Hamlet,https://github.com/LeiMa0324/Hamlet
-2021,大数据系统,,Streams,"MuSE Graphs for Flexible Distribution of
-Event Stream Processing in Networks","Samira Akili, Humboldt-Universität zu Berlin; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457318,aMuSE,https://github.com/samieze/aMuSE
-2021,大数据系统,,Systems and ML,Pool of Experts: Realtime Querying Specialized Knowledge in Massive Neural Networks,"Hakbin Kim,Inha University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457326,Pool-of-Experts-code,https://github.com/bigdata-inha/Pool-of-Experts-code
-2021,大数据系统,,Systems and ML,"Efficient String Sort with Multi-Character Encoding and
-Adaptive Sampling","Wen Jin, Independent Researcher; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457319,AMCE2021,https://github.com/amce2021/AMCE2021
-2021,数据库系统,,Transactions and Blockchain,Rethink the Scan in MVCC Databases,"Jongbin Kim, Hanyang University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452783,vWeaver,https://github.com/hyu-scslab/vWeaver
-2021,数据库系统,,Transactions and Blockchain,eleasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking,"Zhihan Guo, University of Wisconsin-Madison; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457294,Bamboo-Public,https://github.com/ScarletGuo/Bamboo-Public
-2021,数据库系统,,Transactions and Blockchain,Clonos: Consistent Causal Recovery for Highly-Available Streaming Dataflows,"Pedro F. Silvestre, Delft University of Technology; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457320,Clonos,https://github.com/delftdata/Clonos
+﻿年份,领域大类,tag,论文标题,作者,论文链接,项目链接
+2022,"数据库系统,形式化验证","SQL优化,数据库事务",WeTune: Automatic Discovery and Verification of Query Rewrite Rules,"Zhaoguo Wang, Shanghai Jiao Tong University & Ministry of Education of the People's Republic of China; et al.",https://dl.acm.org/doi/10.1145/3514221.3526125#pill-authors__contentcon,https://ipads.se.sjtu.edu.cn:1312/opensource/wetune
+2021,数据库系统,,Boosting Graph Similarity Search through Pre-Computation,"Jongik Kim, Jeonbuk National University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452780,https://github.com/JongikKim/Nass
+2021,大数据系统,,Accelerating Triangle Counting on GPU,"Lin Hu, Peking University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452815,https://github.com/pkumod/accelerating-TC
+2021,大数据系统,,"Graphsurge: Graph Analytics on View Collections Using
+Differential Computation","Siddhartha Sahu, University of Waterloo; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452837,https://github.com/dsg-uwaterloo/graphsurge
+2021,大数据系统,,"Unifying the Global and Local Approaches:
+An Efficient Power Iteration with Forward Push","Hao Wu, The University of Melbourne; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457298,https://github.com/wuhao-wu-jiang/Personalized-PageRank
+2021,大数据系统,,"PathEnum: Towards Real-Time Hop-Constrained s-t Path
+Enumeration","Shixuan Sun, National University of Singapore; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457290,https://github.com/Xtra-Computing/PathEnum
+2021,数据库系统,,Auto-FuzzyJoin: Auto-Program Fuzzy Similarity Joins Without Labeled Examples,"Peng Li, Georgia Institute of Technology; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452824,https://github.com/chu-data-lab/AutomaticFuzzyJoin
+2021,数据库系统,,BullFrog: Online Schema Evolution via Lazy Evaluation,"Souvik Bhattacherjee, ServiceNow & University of Maryland; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452842,https://github.com/DSLAM-UMD/BullFrog
+2021,大数据系统,,LIMA: Fine-grained Lineage Tracing and Reuse in Machine Learning Systems,"Arnab Phani, Graz University of Technology; et al.",https://dl.acm.org/doi/10.1145/3448016.3452788,https://github.com/apache/systemds
+2021,数据库系统,,Conformance Constraint Discovery: Measuring Trust in Data-Driven Systems,"Anna Fariha, Microsoft & University of Massachusetts Amherst; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452795,https://github.com/microsoft/prose/tree/main/misc/CCSynth
+2021,数据库系统,,Multiple Dynamic Outlier-Detection from a Data Stream by Exploiting Duality of Data and Queries,"Susik Yoon, KAIST; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452810,https://github.com/kaist-dmlab/MDUAL
+2021,数据库系统,,Why Not Match: On Explanations of Event Pattern Queries,"Shaoxu Song, Tsinghua University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452818,https://github.com/explanation-event-pattern/explanation
+2021,数据库系统,,ReStore - Neural Data Completion for Relational Databases,"Benjamin Hilprecht, Technical University of Darmstadt; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457264,https://github.com/DataManagementLab/restore
+2021,大数据系统,,Looking for Trouble: Analyzing Classifier Behavior via Pattern Divergence,"Eliana Pastor, Politecnico di Torino; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457284,https://divexplorer.github.io/
+2021,大数据系统,,REDS: Rule Extraction for Discovering Scenarios,"Vadim Arzamasov, Karlsruhe Institute of Technology; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457301,https://github.com/Arzik1987/REDS_experiments
+2021,大数据系统,,"HedgeCut: Maintaining Randomised Trees
+for Low-Latency Machine Unlearning","Sebastian Schelter, University of Amsterdam; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457239,https://github.com/schelterlabs/hedgecut
+2021,大数据系统,,Towards Demystifying Serverless Machine Learning Training,"Jiawei Jiang, ETH Zurich; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3459240,https://github.com/DS3Lab/LambdaML
+2021,大数据系统,,"Fast Processing and Querying of 170TB of Genomics Data via a
+Repeated And Merged BloOm Filter (RAMBO)","Gaurav Gupta, Rice University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457333,https://github.com/gaurav16gupta/RAMBO_MSMT
+2021,数据库系统,,"COMPASS: Online Sketch-based Query Optimization for
+In-Memory Databases","Yesdaulet Izenov, University of California Merced; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452840,https://github.com/yizenov/compass_query_optimizer
+2021,数据库系统,,Adaptive Compression for Fast Scans on String Columns,"Yannis Foufoulas, University of Athens & Athena Research Center; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452798,https://github.com/madgik/arcade
+2021,并行与分布式系统,,"PigPaxos: Devouring the Communication Bottlenecks in
+Distributed Consensus","Aleksey Charapko, University of New Hampshire; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452834,https://github.com/pigpaxos/pigpaxos
+2021,数据库系统,,A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation,"Peizhi Wu, Singtel Cognitive and Artificial Intelligence Lab for Enterprises@NTU; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452830,https://github.com/pagegitss/UAE
+2021,大数据系统,,"Parallel Index-Based Structural Graph Clustering and Its
+Approximation","Tom Tseng, Massachusetts Institute of Technology; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457278,https://github.com/ParAlg/gbbs/tree/master/benchmarks/SCAN/IndexBased
+2021,大数据系统,,Incrementalizing Graph Algorithms,"Wenfei Fan, University of Edinburgh & Shenzhen Institute of Computing Sciences; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452796,https://github.com/yogesh1q2w/Dynamic-Graph-Algorithms
+2021,大数据系统,,Cache-Efficient Fork-Processing Patterns on Large Graphs,"Shengliang Lu, National University of Singapore; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457253,https://github.com/Xtra-Computing/ForkGraph
+2021,大数据系统,,"LightNE: A Lightweight Graph Processing System for Network
+Embedding","Jiezhong Qiu, Tsinghua University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457329,https://github.com/xptree/LightNE
+2021,大数据系统,,Hybrid Edge Partitioner,"Ruben Mayer, Technical University of Munich; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457300,https://github.com/mayerrn/hybrid_edge_partitioner
+2021,大数据系统,,Klink: Progress-Aware Scheduling for Streaming Data Systems,"Omar Farhat, University of Waterloo; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452794,https://github.com/klink-scheduler/klink
+2021,大数据系统,,"To Partition, or Not to Partition,
+That is the Join Question in a Real System","Maximilian Bandle, Technische Universität München; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452831,https://github.com/opcm/pcm
+2021,大数据系统,,MxTasks: How to Make Efficient Synchronization and Prefetching Easy,"Jan Mühlig, TU Dortmund University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457268,https://github.com/jmuehlig/mxtasking
+2021,大数据系统,,DFI: The Data Flow Interface for High-Speed Networks,"Lasse Thostrup, TU Darmstadt; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452816,https://github.com/DataManagementLab/DFI-public
+2021,大数据系统,,CoRM: Compactable Remote Memory over RDMA,"Konstantin Taranov, ETH Zurich; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452817,https://github.com/spcl/CoRM
+2021,大数据系统,,"Maximizing Persistent Memory Bandwidth
+Utilization for OLAP Workloads","Björn Daase, Hasso Plattner Institute, University of Potsdam,; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457292,https://github.com/hpides/pmem-olap
+2021,大数据系统,,"Nova-LSM: A Distributed, Component-based LSM-tree
+Key-value Store","Haoyu Huang, University of Southern California; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457297,https://github.com/HaoyuHuang/NovaLSM
+2021,大数据系统,,"Synthesizing Natural Language to Visualization (NL2VIS)
+Benchmarks from NL2SQL Benchmarks","Yuyu Luo, Tsinghua University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457261,https://github.com/TsinghuaDatabaseGroup/nvBench
+2021,大数据系统,,"DataPrep.EDA: Task-Centric Exploratory Data Analysis
+for Statistical Modeling in Python","Jinglin Peng, Simon Fraser University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457330,https://github.com/sfu-db/dataprep
+2021,大数据系统,,"Rotom: A Meta-Learned Data Augmentation Framework for Entity Matching, Data Cleaning, Text Classification, and Beyond","Zhengjie Miao, Duke University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457258,https://github.com/megagonlabs/rotom
+2021,大数据系统,,"Expand your Training Limits!
+Generating Training Data for ML-based Data Management","Francesco Ventura, Politecnico di Torino; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457286,https://github.com/agora-ecosystem/data-farm
+2021,数据库系统,,Scalable and Usable Relational Learning With Automatic Language Bias,"Jose Picado, Oregon State University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457275,github.com/OSU-IDEA-Lab/AutoBias.
+2021,数据库系统,,Marrying Top-k with Skyline Queries: Relaxing the Preference Input while Producing Output of Controllable Size,"Kyriakos Mouratidis, Singapore Management University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457299,https://github.com/ghlkm/ordu
+2021,数据库系统,,Small Selectivities Matter: Lifting the Burden of Empty Samples,"Axel Hertzschuch, Technische Universität Dresden; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452805,https://github.com/axhertz/BetaEstimator
+2021,数据库系统,,"The Power of Nested Parallelism in Big Data Processing
+– Hitting Three Flies with One Slap -","Gábor E. Gévay, Technische Universität Berlin; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457287,https://github.com/anonymous873543/Matryoshka-anonymized
+2021,数据库系统,,One WITH RECURSIVE is Worth Many GOTOs,"Denis Hirn, Universität Tübingen; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457272,https://github.com/One-WITH-RECURSIVE-is-Worth-Many-GOTOs
+2021,数据库系统,,Worst-Case Optimal Graph Joins in Almost No Space,"Diego Arroyuelo, Universidad Técnica Federico Santa María & Millennium Institute for Foundational Research on Data; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457256,https://github.com/darroyue/Ring
+2021,数据库系统,,PGMJoins: Random Join Sampling with Graphical Models,"Ali Mohammadi Shanghooshabad, University of Warwick, Coventry; et al.",https://dl.acm.org/doi/pdf/10.1145/3448016.3457302,https://github.com/shanghoosh1/PGMJoins
+2021,大数据系统,,Slice Tuner: A Selective Data Acquisition Framework for Accurate and Fair Machine Learning Models,"Ki Hyun Tae,KAIST; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452792,https://github.com/systemT2021/SliceTuner
+2021,大数据系统,,Secure Yannakakis: Join-Aggregate Queries over Private Data,"Yilei Wang, Hong Kong University of Science and Technology; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452808,https://github.com/hkustDB/SECYAN
+2021,大数据系统,,Fast Parallel Algorithms for Euclidean Minimum Spanning Tree and Hierarchical Spatial Clustering,"Yiqiu Wang,Massachusetts Institute of Technology; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457296,https://github.com/wangyiqiu/hdbscan
+2021,大数据系统,,"Convergence of Array DBMS and Cellular Automata:
+A Road Traffic Simulation Case","Ramon Antonio Rodriges Zalipynis, HSE University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3458457,https://github.com/movsim/movsim
+2021,数据库系统,,"Consistent and Flexible Selectivity Estimation for
+High-Dimensional Data","Yaoshu Wang, Shenzhen University; et al.",https://dl.acm.org/doi/pdf/10.1145/3448016.3452772,https://github.com/yyssl88/SelNet-Estimation
+2021,大数据系统,,Top-K Deep Video Analytics: A Probabilistic Approach,"Ziliang Lai, The Chinese University of Hong Kong; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452786,https://github.com/everest-project/everest
+2021,大数据系统,,"Fast Density-Peaks Clustering: Multicore-based Parallelization
+Approach","Daichi Amagata, Osaka University & PRESTO; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452781,https://github.com/amgt-d1/DPC
+2021,大数据系统,,"Public Transport Planning: When Transit Network Connectivity
+Meets Commuting Demand","Sheng Wang, New York University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457247,https://github.com/tgbnhy/ct-bus
+2021,大数据系统,,"Fast and Exact Outlier Detection in Metric Spaces: A Proximity
+Graph-based Approach","Daichi Amagata, Osaka University & PRESTO; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452782,https://github.com/amgt-d1/DOD
+2021,大数据系统,,Point-to-Hyperplane Nearest Neighbor Search Beyond the Unit Hypersphere,"Qiang Huang, National University of Singapore; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457240,https://github.com/HuangQiang/P2HNNS
+2021,大数据系统,,A Generalized Approach for Reducing Expensive Distance Calls for A Broad Class of Proximity Problems,"Jees Augustine, The University of Texas at Arlington; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457303,https://github.com/jeesaugustine/metric-space-proximity-algo/
+2021,大数据系统,,Parallelizing Intra-Window Join on Multicores: An Experimental Study,"Shuhao Zhang, Singapore University of Technology and Design; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452793,https://github.com/intellistream/AllianceDB
+2021,大数据系统,,Out of Many We are One: Measuring Item Batch with Clock-Sketch,"Peiqing Chen, Peking University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452784,https://github.com/Clock-sketch/clock-sketch2020
+2021,大数据系统,,BurstSketch: Finding Bursts in Data Streams,"Zheng Zhong, Peking University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452775,https://github.com/BurstSketch/BurstSketch
+2021,大数据系统,,Sliding Window-based Approximate Triangle Counting over Streaming Graphs with Duplicate Edges,"Xiangyang Gou, Peking University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452800,https://github.com/StreamingTriangleCounting/TriangleCounting
+2021,数据库系统,,Index-Accelerated Pattern Matching in Event Stores,"Michael Körber, University of Marburg; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457245,https://github.com/sigmod2021-index-pattern/index-pattern
+2021,大数据系统,,"EIRES: Efficient Integration of Remote Data
+in Event Stream Processing","Bo Zhao, Humboldt-Universität zu Berlin; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457304,https://github.com/zbjob/EIRES
+2021,大数据系统,,"To Share, or not to Share Online Event Trend Aggregation Over
+Bursty Event Streams","Olga Poppe, Microsoft Gray Systems Lab; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452785,https://github.com/LeiMa0324/Hamlet
+2021,大数据系统,,"MuSE Graphs for Flexible Distribution of
+Event Stream Processing in Networks","Samira Akili, Humboldt-Universität zu Berlin; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457318,https://github.com/samieze/aMuSE
+2021,大数据系统,,Pool of Experts: Realtime Querying Specialized Knowledge in Massive Neural Networks,"Hakbin Kim,Inha University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457326,https://github.com/bigdata-inha/Pool-of-Experts-code
+2021,大数据系统,,"Efficient String Sort with Multi-Character Encoding and
+Adaptive Sampling","Wen Jin, Independent Researcher; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457319,https://github.com/amce2021/AMCE2021
+2021,数据库系统,,Rethink the Scan in MVCC Databases,"Jongbin Kim, Hanyang University; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3452783,https://github.com/hyu-scslab/vWeaver
+2021,数据库系统,,eleasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking,"Zhihan Guo, University of Wisconsin-Madison; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457294,https://github.com/ScarletGuo/Bamboo-Public
+2021,数据库系统,,Clonos: Consistent Causal Recovery for Highly-Available Streaming Dataflows,"Pedro F. Silvestre, Delft University of Technology; et al.",https://dl.acm.org/doi/abs/10.1145/3448016.3457320,https://github.com/delftdata/Clonos
