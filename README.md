@@ -2,13 +2,16 @@
 
 ## 为什么需要学术开源索引？
 
-近年来，越来越多的会议鼓励学术开源，并设立了专门的Artifact Evaluation流程，确保学术开源的质量。
-学术开源对系统研究的重要性不言而喻。“学术开源索引”网站搜集了一系列系统研究相关的学术开源成果，旨在方便系统研究者检索和学习。
+学术开源对系统研究的重要性不言而喻。
+
+近年来，越来越多的会议鼓励学术开源，并设立了专门的[Artifact Evaluation](https://artifact-eval.org/)流程，[以确保学术开源的质量](https://zhuanlan.zhihu.com/p/460805807)。
+
+[“学术开源索引”网站](https://chinasys.org/opensource/program-index.html)搜集了一系列系统研究相关的学术开源成果，旨在方便系统研究者检索和学习。目前索引内容仍在不断更新和完善中。
 
 ## 如何贡献？
 
 如果您有个开源或发现了个不错的学术开源项目，我们欢迎您以`Pull request`的形式将相关信息提交到本站点。
-一旦合并，该项目将会出现在学术开源索引的[官方网站](https://sysopensource.ccf.org.cn)上。
+一旦合并，该项目将会出现在学术开源索引的[官方网站](https://chinasys.org/opensource/program-index.html)上。
 
 ## 提交流程
 
