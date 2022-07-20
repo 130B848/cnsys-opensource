@@ -1,0 +1,2 @@
+﻿年份,领域大类,tag,论文标题,作者,论文链接,项目链接
+2020,"数据库系统,形式化验证",符号执行,SPES: A Two-Stage Query Equivalence Verifier,"Qi Zhou, Georgia Institute of Technology; et al.",https://arxiv.org/pdf/2004.00481v2.pdf,https://github.com/georgia-tech-db/spes

@@ -1,0 +1,217 @@
+﻿年份,领域大类,关键词（最多3个）,论文标题,作者,论文链接,项目链接
+2021,文件和存储系统,,Approaching DRAM performance by using microsecond-latency flash memory for small-sized random read accesses: a new access method and its graph applications,"Tomoya Suzuki, Kioxia Corporation; et al.",http://vldb.org/pvldb/vol14/p1311-suzuki.pdf,
+2021,数据库系统,,Optimizing In-memory Database Engine For AI-powered On-line Decision Augmentation Using Persistent Memory,"Cheng Chen, 4Paradigm Inc.; et al.",http://vldb.org/pvldb/vol14/p799-chen.pdf,
+2021,数据库系统,,Zen: a High-Throughput Log-Free OLTP Engine for Non-Volatile Main Memory,"Gang Liu, Chinese Academy of Sciences; et al.",http://vldb.org/pvldb/vol14/p835-liu.pdf,
+2021,数据库系统,,Revisiting the Design of LSM-tree Based OLTP Storage Engine with Persistent Memory,"Baoyue Yan, Beihang University; et al.",http://vldb.org/pvldb/vol14/p1872-yan.pdf,
+2021,文件和存储系统,,SaS: SSD as SQL Database System,"Jong-Hyeok Park, Sungkyunkwan University; et al.",http://vldb.org/pvldb/vol14/p1481-lee.pdf,
+2021,机器学习系统,,Comprehensive and Efficient Workload Compression,"Shaleen Deep, University of Wisconsin-Madison; et al.",http://vldb.org/pvldb/vol14/p418-deep.pdf,
+2021,机器学习系统,,"On the Efficiency of K-Means Clustering: Evaluation, Optimization, and Algorithm Selection","Sheng Wang, New York University; et al.",http://vldb.org/pvldb/vol14/p163-wang.pdf,https://github.com/tgbnhy/fast-kmeans
+2021,机器学习系统,,Comprehensible Counterfactual Explanation on Kolmogorov-Smirnov Test,"Zicun Cong, Simon Fraser University; et al.",http://vldb.org/pvldb/vol14/p1583-cong.pdf,https://github.com/research0610/MOCHE
+2021,机器学习系统,,GeCo: Quality Counterfactual Explanations in Real Time,"Maximilian Schleich, University of Washington; et al.",http://vldb.org/pvldb/vol14/p1681-schleich.pdf,https://github.com/mjschleich/GeCo.jl
+2021,机器学习系统,,A Queueing-Theoretic Framework for Vehicle Dispatching in Dynamic Car-Hailing,"Peng Cheng, East China Normal University; et al.",http://vldb.org/pvldb/vol14/p2177-cheng.pdf,https://github.com/inabao/queue-based-order-dispatching
+2021,大数据系统,,On the algebra of data sketches,"Jakub Lemiesz, Wrocław University of Science and Technology; et al.",http://vldb.org/pvldb/vol14/p1655-lemiesz.pdf,
+2021,大数据系统,,SetSketch: Filling the Gap between MinHash and HyperLogLog,"Otmar Ertl, Dynatrace Research; et al.",http://vldb.org/pvldb/vol14/p2244-ertl.pdf,https://github.com/dynatrace-research/set-sketch-paper
+2021,大数据系统,,SKT: A One-Pass Multi-Sketch Data Analytics Accelerator,"Monica Chiosa, ETH Zurich; et al.",http://vldb.org/pvldb/vol14/p2369-chiosa.pdf,
+2021,大数据系统,,KLL±: Approximate Quantile Sketches over Dynamic Datasets,"Fuheng Zhao, UCSB; et al.",http://vldb.org/pvldb/vol14/p1215-zhao.pdf,
+2021,大数据系统,,On-Off Sketch: A Fast and Accurate Sketch on Persistence,"Yinda Zhang, Peking University; et al.",http://vldb.org/pvldb/vol14/p128-zhang.pdf,
+2021,机器学习系统,,RPT: Relational Pre-trained Transformer Is Almost All You Need towards Democratizing Data Preparation,"Nan Tang, Qatar Computing Research Institute HBKU; et al.",http://vldb.org/pvldb/vol14/p1254-tang.pdf,
+2021,机器学习系统,,LOCATER: Cleaning WiFi Connectivity Datasets for Semantic Localization,"Yiming Lin, University of California Irvine; et al.",http://vldb.org/pvldb/vol14/p329-lin.pdf,https://github.com/yiminl18/LOCATER
+2021,机器学习系统,,CHEF: A Cheap and Fast Pipeline for Iteratively Cleaning Label Uncertainties,"Yinjun Wu, University of Pennsylvania; et al.",http://vldb.org/pvldb/vol14/p2410-wu.pdf,https://github.com/thuwuyinjun/Chef
+2021,机器学习系统,,Horizon: Scalable Dependency-driven Data Cleaning,"El Kindi Rezig, MIT; et al.",http://vldb.org/pvldb/vol14/p2546-rezig.pdf,
+2021,机器学习系统,,Approximating Median Absolute Deviation with Bounded Error,"Zhiwei Chen, Tsinghua University; et al.",http://vldb.org/pvldb/vol14/p2114-song.pdf,
+2021,并行与分布式系统,,On Analyzing Graphs with Motif-Paths,"Xiaodong Li, The University of Hong Kong; et al.",http://vldb.org/pvldb/vol14/p1111-li.pdf,
+2021,并行与分布式系统,,GraphMineSuite: Enabling High-Performance and Programmable Graph Mining Algorithms with Set Algebra,"Maciej Besta, ETH Zurich; et al.",http://vldb.org/pvldb/vol14/p1922-besta.pdf,https://graphminesuite.spcl.inf.ethz.ch
+2021,并行与分布式系统,,A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search,"Mengzhao Wang, Hangzhou Dianzi University; et al.",http://vldb.org/pvldb/vol14/p1964-wang.pdf,https://github.com/Lsyhprum/WEAVESS
+2021,并行与分布式系统,,Accelerating Exact Constrained Shortest Paths on GPUs,"Shengliang Lu, National University of Singapore; et al.",http://vldb.org/pvldb/vol14/p547-lu.pdf,https://github.com/xtra-computing/vine
+2021,并行与分布式系统,,Fast Algorithm for Anchor Graph Hashing,"Yasuhiro Fujiwara, NTT Communication Science Laboratories; et al.",http://vldb.org/pvldb/vol14/p916-fujiwara.pdf,
+2021,数据库系统,,Breaking Down Memory Walls: Adaptive Memory Management in LSM-based Storage Systems,"Chen Luo, Snowflake Inc.; et al.",http://vldb.org/pvldb/vol14/p241-luo.pdf,
+2021,数据库系统,,Achieving High Throughput and Elasticity in a Larger-than-Memory Store,"Chinmay Kulkarni, University of Utah; et al.",http://vldb.org/pvldb/vol14/p1427-kulkarni.pdf,https://aka.ms/Shadowfax
+2021,数据库系统,,Towards Cost-Effective and Elastic Cloud Database Deployment via Memory Disaggregation,"Yingqiang Zhang, Alibaba Group; et al.",http://vldb.org/pvldb/vol14/p1900-zhang.pdf,
+2021,数据库系统,,Towards Plug-and-Play Visual Graph Query Interfaces: Data-driven Canned Pattern Selection for Large Networks,"Zifeng Yuan, NTU; et al.",http://vldb.org/pvldb/vol14/p1979-bhowmick.pdf,
+2021,数据库系统,,COMPARE: Accelerating Groupwise Comparison in Relational Databases for Data Analytics,"Tarique Siddiqui, Microsoft Research; et al.",http://vldb.org/pvldb/vol14/p2419-siddiqui.pdf,
+2021,数据库系统,,Scalable Querying of Nested Data,"Jaclyn Smith, Oxford University; et al.",http://vldb.org/pvldb/vol14/p445-smith.pdf,
+2021,数据库系统,,Procedural Extensions of SQL: Understanding their usage in the wild,"Surabhi Gupta, Microsoft Research India; et al.",http://vldb.org/pvldb/vol14/p1378-ramachandra.pdf,
+2021,数据库系统,,The Smallest Extraction Problem,"Valerio Cetorelli, Roma Tre University; et al.",http://vldb.org/pvldb/vol14/p2445-crescenzi.pdf,
+2021,数据库系统,,Glean: Structured Extractions from Templatic Documents,"Sandeep Tata, Google USA; et al.",http://vldb.org/pvldb/vol14/p997-tata.pdf,
+2021,数据库系统,,Preference Queries over Taxonomic Domains,"Paolo Ciaccia, Università di Bologna; et al.",http://vldb.org/pvldb/vol14/p1859-martinenghi.pdf,
+2021,数据库系统,,ThunderRW: An In-Memory Graph Random Walk Engine,"Shixuan Sun, National University of Singapore; et al.",http://vldb.org/pvldb/vol14/p1992-sun.pdf,
+2021,数据库系统,,Maximizing Social Welfare in a Competitive Diffusion Model,"Prithu Banerjee, UBC; et al.",http://vldb.org/pvldb/vol14/p613-banerjee.pdf,
+2021,数据库系统,,Missing Value Imputation on Multidimensional Time Series,"Parikshit  Bansal, IIT Bombay; et al.",http://vldb.org/pvldb/vol14/p2533-bansal.pdf,
+2021,数据库系统,,Fauce: Fast and Accurate Deep Ensembles with Uncertainty for Cardinality Estimation,"Jie Liu, University of California Merced; et al.",http://vldb.org/pvldb/vol14/p1950-liu.pdf,
+2021,数据库系统,,"FLAT: Fast, Lightweight and Accurate Method for Cardinality Estimation","Rong Zhu, Alibaba Group; et al.",http://vldb.org/pvldb/vol14/p1489-zhu.pdf,
+2021,数据库系统,,"The Case for NLP-Enhanced Database Tuning: Towards Tuning Tools that ""Read the Manual""","Immanuel Trummer, Cornell; et al.",http://vldb.org/pvldb/vol14/p1159-trummer.pdf,https://tinyurl.com/9crrjezv
+2021,数据库系统,,Quality of Sentiment Analysis Tools: The Reasons of Inconsistency,"Wissam Mammar Kouadri, University of Paris; et al.",http://vldb.org/pvldb/vol14/p668-kouadri.pdf,https://github.com/AbCd256/Quality-of-sentiment-analysis-tools.git
+2021,数据库系统,"知识图谱,自然语言处理",CBench: Towards Better Evaluation of Question Answering Over Knowledge Graphs,"Abdelghny Orogat, Carleton University; et al.",http://vldb.org/pvldb/vol14/p1325-orogat.pdf,https://github.com/aorogat/CBench
+2021,数据库系统,"SQL优化,查询优化,机器学习",Explaining Inference Queries with Bayesian Optimization,"Brandon Lockhart, Simon Fraser University; et al.",http://vldb.org/pvldb/vol14/p2576-lockhart.pdf,https://github.com/sfu-db/BOExplain
+2021,数据库系统,"ML训练,查询优化,数据管理",Data Acquisition for Improving Machine Learning Models,"Yifan Li, York University; et al.",http://vldb.org/pvldb/vol14/p1832-li.pdf,https://github.com/AwesomeYifan/Data-acquisition-for-ML
+2021,数据库系统,"查询优化,存储系统,SQL优化",PATSQL: Efficient Synthesis of SQL Queries from Example Tables with Quick Inference of Projected Columns,"Keita Takenouchi, NTT DATA; et al.",http://vldb.org/pvldb/vol14/p1937-takenouchi.pdf,https://github.com/NAIST-SE/PATSQL
+2021,数据库系统,"数据管理,数据分析,查询优化",Rumble: Data Independence for Large Messy Data Sets,"Ingo Müller, ETH Zürich; et al.",http://vldb.org/pvldb/vol14/p498-muller.pdf,https://github.com/RumbleDB/experiments-vldb21
+2021,数据库系统,"图计算,图数据库",Towards an Efficient Weighted Random Walk Domination,"Songsong Mo, Wuhan University; et al.",http://vldb.org/pvldb/vol14/p560-mo.pdf,https://github.com/songsong945/RandomWalkDomination
+2021,数据库系统,"ML训练,ML优化,数据分析",Adaptive Data Augmentation for Supervised Learning over Missing Data,"Tongyu Liu, Renmin University of China; et al.",http://vldb.org/pvldb/vol14/p1202-fan.pdf,https://github.com/ruc-datalab/dagan
+2021,数据库系统,"机器学习,ML优化,数据分析",Nearest Neighbor Classifiers over Incomplete Information: From Certain Answers to Certain Predictions,"Bojan Karlaš, ETH Zürich; et al.",http://vldb.org/pvldb/vol14/p255-karlas.pdf,https://github.com/chu-data-lab/CPClean
+2021,数据库系统,"查询优化,机器学习,ML训练",Are We Ready For Learned Cardinality Estimation?,"Xiaoying Wang, Simon Fraser University; et al.",http://vldb.org/pvldb/vol14/p1640-wang.pdf,https://github.com/sfu-db/AreCELearnedYet
+2021,数据库系统,,Astrid: Accurate Selectivity Estimation for String Predicates using Deep Learning,"Suraj  Shetiya, The University of Texas at Arlington; et al.",http://vldb.org/pvldb/vol14/p471-shetiya.pdf,
+2021,数据库系统,"查询优化,机器学习,ML训练",Flow-Loss: Learning Cardinality Estimates That Matter,"Parimarjan Negi, MIT CSAIL; et al.",http://vldb.org/pvldb/vol14/p2019-negi.pdf,https://github.com/learnedsystems/ceb
+2021,数据库系统,"查询优化,ML训练,神经网络",NeuroCard: One Cardinality Estimator for All Tables,"Zongheng Yang, UC Berkeley; et al.",http://vldb.org/pvldb/vol14/p61-yang.pdf,https://github.com/neurocard
+2021,数据库系统,,Towards Crowd-aware Indoor Path Planning,"Tiantian Liu, Aalborg University; et al.",http://vldb.org/pvldb/vol14/p1365-liu.pdf,
+2021,数据库系统,,AutoGR: Automated Geo-Replication with Fast System Performance and Preserved Application Semantics,"Jiawei Wang, USTC; et al.",http://vldb.org/pvldb/vol14/p1517-li.pdf,
+2021,数据库系统,,PPQ-Trajectory: Spatio-temporal Quantization for Querying in Large Trajectory Repositories,"Shuang Wang, University of Warwick; et al.",http://vldb.org/pvldb/vol14/p215-wang.pdf,
+2021,数据库系统,,MDTP: A Multi-source Deep Traffic Prediction Framework over Spatio-Temporal Trajectory Data,"Ziquan Fang, Zhejiang University; et al.",http://vldb.org/pvldb/vol14/p1289-gao.pdf,
+2021,数据库系统,,The Simpler The Better: An Indexing Approach for Shared-Route Planning Queries.,"Yuxiang Zeng, Hong Kong University of Science and Technology; et al.",http://vldb.org/pvldb/vol13/p3517-zeng.pdf,
+2021,数据库系统,,QARTA: An ML-based System for Accurate Map Services,"Mashaal Musleh, University of Minnesota; et al.",http://vldb.org/pvldb/vol14/p2273-mokbel.pdf,
+2021,数据库系统,,Fast Augmentation Algorithms for Network Kernel Density Visualization,"Tsz Nam Chan, Hong Kong Baptist University; et al.",http://vldb.org/pvldb/vol14/p1503-chan.pdf,
+2021,数据库系统,,Parallel Graph Algorithms in Constant Adaptive Rounds: Theory meets Practice,"Soheil Behnezhad, University of Maryland; et al.",http://vldb.org/pvldb/vol13/p3588-behnezhad.pdf,
+2021,数据库系统,,Optimizing Bipartite Matching in Real-World Applications by Incremental Cost Computation,"Tenindra Abeywickrama, GrabTaxi Holdings Pte Ltd; et al.",http://vldb.org/pvldb/vol14/p1150-abeywickrama.pdf,
+2021,数据库系统,"多核,并行算法,图计算",RECEIPT: REfine CoarsE-grained IndePendent Tasks for Parallel Tip decomposition of Bipartite Graphs,"Kartik Lakhotia, USC; et al.",http://vldb.org/pvldb/vol14/p404-lakhotia.pdf,https://github.com/kartiklakhotia/RECEIPT
+2021,数据库系统,"图计算,并行算法,数据挖掘",Symmetric Continuous Subgraph Matching with Bidirectional Dynamic Programming,"Seunghwan Min, Seoul National University; et al.",http://vldb.org/pvldb/vol14/p1298-han.pdf,https://github.com/SNUCSE-CTA/SymBi
+2021,数据库系统,,Massively Parallel Algorithms for Personalized PageRank,"Guanhao Hou, The Chinese University of Hong Kong; et al.",http://vldb.org/pvldb/vol14/p1668-wang.pdf,
+2021,数据库系统,,From Natural Language Processing to Neural Databases,"James Thorne, University of Cambridge; et al.",http://vldb.org/pvldb/vol14/p1033-thorne.pdf,
+2021,数据库系统,,Improving Information Extraction from Visually Rich Documents using Visual Span Representations,"Ritesh Sarkhel, Ohio State University; et al.",http://vldb.org/pvldb/vol14/p822-sarkhel.pdf,
+2021,数据库系统,,An Inquiry into Machine Learning-based Automatic Configuration Tuning Services on Real-World Database Management Systems,"Dana M Van Aken, Carnegie Mellon University; et al.",http://vldb.org/pvldb/vol14/p1241-aken.pdf,
+2021,数据库系统,,CGPTuner: a Contextual Gaussian Process Bandit Approach for the Automatic Tuning of IT Configurations Under Varying Workload Conditions,"Stefano Cereda, Politecnico di Milano; et al.",http://vldb.org/pvldb/vol14/p1401-cereda.pdf,
+2021,数据库系统,,Database Technology for the Masses: Sub-Operators as First-Class Entities,"Maximilian Bandle, TUM; et al.",http://vldb.org/pvldb/vol14/p2483-bandle.pdf,
+2021,数据库系统,,Accelerating Approximate Aggregation Queries with Expensive Predicates,"Daniel Kang, Stanford University; et al.",http://vldb.org/pvldb/vol14/p2341-kang.pdf,
+2021,数据库系统,,Tempura: A General Cost-Based Optimizer Framework for Incremental Data Processing,"Zuozhi Wang, U C IRVINE; et al.",http://vldb.org/pvldb/vol14/p14-wang.pdf,
+2021,数据库系统,,Aggregated Deletion Propagation for Counting Conjunctive Query Answers,"Xiao Hu, Duke University; et al.",http://vldb.org/pvldb/vol14/p228-hu.pdf,
+2021,数据库系统,,Adaptive Code Generation for Data-Intensive Analytics,"Wangda Zhang, Columbia University; et al.",http://vldb.org/pvldb/vol14/p929-zhang.pdf,
+2021,数据库系统,,DISK: A Distributed Framework for Single-Source SimRank with Accuracy Guarantee,"Yue Wang, Shenzhen Institute of Computing Sciences Shenzhen University.; et al.",http://vldb.org/pvldb/vol14/p351-wang.pdf,
+2021,数据库系统,"数据分析,数据挖掘,并行算法","In the Land of Data Streams where Synopses are Missing, One Framework to Bring Them All","Rudi Poepsel-Lemaitre, Technische Universität Berlin; et al.",http://vldb.org/pvldb/vol14/p1818-poepsel-lemaitre.pdf,https://github.com/TU-Berlin-DIMA/Condor
+2021,数据库系统,"数据分析,数据挖掘,并行算法",PR-Sketch: Monitoring Per-key Aggregation of Streaming Data with Nearly Full Accuracy,"Qun Huang, Peking University; et al.",http://vldb.org/pvldb/vol14/p1783-huang.pdf,https://github.com/N2-Sys/PR-Sketch
+2021,数据库系统,"并行算法,数据分析,数据管理",Ananke: A Streaming Framework for Live Forward Provenance,"Dimitris Palyvos-Giannas, Chalmers University of Technology; et al.",http://vldb.org/pvldb/vol14/p391-palyvos-giannas.pdf,https://github.com/dmpalyvos/ananke
+2021,数据库系统,,Optimization of Threshold Functions over Streams,"Walter Cai, University of Washington; et al.",http://vldb.org/pvldb/vol14/p878-cai.pdf,
+2021,数据库系统,,TRACE: Real-time Compression of Streaming Trajectories in Road Networks,"Tianyi Li, Aalborg Univeristy; et al.",http://vldb.org/pvldb/vol14/p1175-chen.pdf,
+2021,数据库系统,"数据分析,知识图谱,图数据库",Collective Influence Maximization for Multiple Competing Products with an Awareness-to-Influence Model,"Dimitris Tsaras, HKUST; et al.",http://vldb.org/pvldb/vol14/p1124-papadias.pdf,https://github.com/dtsaras/GCW
+2021,数据库系统,,Finding Group Steiner Trees in Graphs with both Vertex and Edge Weights,"Yahui Sun, National University of Singapore; et al.",http://vldb.org/pvldb/vol14/p1137-sun.pdf,
+2021,数据库系统,"图计算,数据挖掘",Shortest Paths and Centrality in Uncertain Networks,"Arkaprava Saha, Nanyang Technological University; et al.",http://vldb.org/pvldb/vol14/p1188-khan.pdf,https://github.com/ArkaSaha/MPSP-Centrality
+2021,数据库系统,,Hierarchical Core Maintenance on Large Dynamic Graphs,"Zhe Lin, East China Normal University; et al.",http://vldb.org/pvldb/vol14/p757-zhang.pdf,
+2021,数据库系统,,Local Algorithms for Distance-generalized Core Decomposition over Large Dynamic Graphs,"Qing Liu, Hong Kong Baptist University; et al.",http://vldb.org/pvldb/vol14/p1531-xu.pdf,
+2021,数据库系统,"数据管理,软件定义,数据分析",NOAH: Interactive Spreadsheet Exploration with Dynamic Hierarchical Overviews,"Sajjadur Rahman, Megagon Labs; et al.",http://vldb.org/pvldb/vol14/p970-rahman.pdf,https://github.com/dataspread/NOAH
+2021,数据库系统,,Robust Voice Querying with MUVE: Optimally Visualizing Results of Phonetically Similar Queries,"Ziyun Wei, Cornell University; et al.",http://vldb.org/pvldb/vol14/p2397-wei.pdf,
+2021,数据库系统,,PolyFrame: A Retargetable Query-based Approach to Scaling Dataframes,"Phanwadee Sinthong, University of California Irvine; et al.",http://vldb.org/pvldb/vol14/p2296-sinthong.pdf,
+2021,数据库系统,"数据挖掘,AIforSys,并行算法",LES3: Learning-based exact set similarity search,"Yifan Li, York University; et al.",http://vldb.org/pvldb/vol14/p2073-li.pdf,https://github.com/AwesomeYifan/learning-based-set-sim-search
+2021,数据库系统,,DeltaPQ: Lossless Product Quantization Code Compression for High Dimensional Similarity Search,"Runhui Wang, Rutgers University; et al.",http://vldb.org/pvldb/vol13/p3603-wang.pdf,
+2021,数据库系统,,Budget Constrained Interactive Search for Multiple Targets,"Xuliang Zhu, Hong Kong Baptist University; et al.",http://vldb.org/pvldb/vol14/p890-huang.pdf,
+2021,数据库系统,,Efficient Join Algorithms For Large Database Tables in a Multi-GPU Environment,"Ran Rui, University of South Florida; et al.",http://vldb.org/pvldb/vol14/p708-rui.pdf,
+2021,数据库系统,"GPU,编译优化,加速器",Improving Execution Efficiency of Just-in-time Compilation based Query Processing on GPUs,"Johns Paul, NUS; et al.",http://vldb.org/pvldb/vol14/p202-paul.pdf,https://github.com/Xtra-Computing/Pyper
+2021,数据库系统,"FPGA,程序优化,加速器",Scotch: Generating FPGA-Accelerators for Sketching at Line Rate,"Martin Kiefer, TU Berlin; et al.",http://vldb.org/pvldb/vol14/p281-kiefer.pdf,https://github.com/martinkiefer/Scotch
+2021,数据库系统,,Decomposed Bounded Floats for Fast Compression and Queries,"Chunwei Liu, University of Chicago; et al.",http://vldb.org/pvldb/vol14/p2586-liu.pdf,
+2021,数据库系统,,Phoebe: A Learning-based Checkpoint Optimizer,"Yiwen Zhu, Microsoft; et al.",http://vldb.org/pvldb/vol14/p2505-zhu.pdf,
+2021,数据库系统,"分离式内存,查询优化,缓存优化",FlexPushdownDB: Hybrid Pushdown and Caching in a Cloud DBMS,"Yifei Yang, University of California San Diego; et al.",http://vldb.org/pvldb/vol14/p2101-yang.pdf,https://github.com/cloud-olap/FlexPushdownDB
+2021,数据库系统,,Auto-Pipeline: Synthesize Data Pipelines By-Target Using Reinforcement Learning and Search,"Jnwen Yang, The UNIVERSITY of CHICAGO; et al.",http://vldb.org/pvldb/vol14/p2563-he.pdf,
+2021,数据库系统,,Kamino: Constraint-Aware Differentially Private Data Synthesis,"Chang Ge, University of Waterloo; et al.",http://vldb.org/pvldb/vol14/p1886-ge.pdf,
+2021,数据库系统,,Inspector Gadget: A Data Programming-based Labeling System for Industrial Images,"Geon Heo, KAIST; et al.",http://vldb.org/pvldb/vol14/p28-heo.pdf,
+2021,机器学习系统,,LANCET: Labeling Complex Data at Scale,"Huayi Zhang, WPI; et al.",http://vldb.org/pvldb/vol14/p2154-cao.pdf,
+2021,机器学习系统,,Jointly Optimizing Preprocessing and Inference for DNN-based Visual Analytics,"Daniel Kang, Stanford University; et al.",http://vldb.org/pvldb/vol14/p87-kang.pdf,
+2021,机器学习系统,,EdgeDIPN: a Unified Deep Intent Prediction Network Deployed at the Edge,"Long Guo, Alibaba inc.; et al.",http://vldb.org/pvldb/vol14/p320-guo.pdf,
+2021,数据库系统,,EMOGI: Efficient Memory-access for Out-of-memory Graph-traversal in GPUs,"Seung Won Min, University of Illinois at Urbana-Champaign; et al.",http://vldb.org/pvldb/vol14/p114-min.pdf,
+2021,数据库系统,,Efficiently Answering Reachability and Path Queries on Temporal Bipartite Graphs,"Xiaoshuang Chen, University of New South Wales; et al.",http://vldb.org/pvldb/vol14/p1845-chen.pdf,
+2021,数据库系统,,Efficient Bi-triangle Counting for Large Bipartite Networks,"Yixing Yang, University of New South Wales; et al.",http://vldb.org/pvldb/vol14/p984-yang.pdf,
+2021,数据库系统,,Real-Time Distance-Based Outlier Detection in Data Streams,"Luan V Tran, University of Southern California; et al.",http://vldb.org/pvldb/vol14/p141-tran.pdf,
+2021,数据库系统,,SAND: Streaming Subsequence Anomaly Detection,"Paul Boniol, Université de Paris; et al.",http://vldb.org/pvldb/vol14/p1717-boniol.pdf,
+2021,数据库系统,,Randomized Error Removal for Online Spread Estimation in Data Streaming,"Haibo Wang, University of Florida; et al.",http://vldb.org/pvldb/vol14/p1040-wang.pdf,
+2021,数据库系统,NVRAM,Understanding the Idiosyncrasies of Real Persistent Memory,"Shashank Gugnani, The Ohio State University; et al.",http://vldb.org/pvldb/vol14/p626-gugnani.pdf,https://github.com/padsys/PMIdioBench
+2021,数据库系统,"NVRAM,索引结构",Persistent Memory Hash Indexes: An Experimental Evaluation,"Daokun Hu, College of Computer Science and Electronic Engineering Hunan University China; et al.",http://vldb.org/pvldb/vol14/p785-chen.pdf,https://github.com/daokunhu/HashEvaluation
+2021,数据库系统,"NVRAM,索引结构",Viper: An Efficient Hybrid PMem-DRAM Key-Value Store,"Lawrence Benson, Hasso Plattner Institute University of Potsdam; et al.",http://vldb.org/pvldb/vol14/p1544-benson.pdf,https://github.com/hpides/viper
+2021,机器学习系统,"SysforAI,ML训练,ML优化",VolcanoML: Speeding up End-to-End AutoML via Scalable Search Space Decomposition,"Yang Li, Peking University; et al.",http://vldb.org/pvldb/vol14/p2167-li.pdf,https://github.com/PKU-DAIR/mindware
+2021,机器学习系统,,How to Design Robust Algorithms using Noisy Comparison Oracle,"Raghavendra Addanki, University of Massachusetts Amherst; et al.",http://vldb.org/pvldb/vol14/p1703-galhotra.pdf,
+2021,机器学习系统,"SysforAI,ML训练,ML优化",Doing More with Less: Characterizing Dataset Downsampling for AutoML,"Fatjon Zogaj, ETH Zurich; et al.",http://vldb.org/pvldb/vol14/p2059-zogaj.pdf,https://github.com/ipa-lab/autoML-sampling-public
+2021,数据库系统,分布式共识协议,Scaling Replicated State Machines with Compartmentalization,"Michael J Whittaker, UC Berkeley; et al.",http://vldb.org/pvldb/vol14/p2203-whittaker.pdf,https://github.com/mwhittaker/frankenpaxos
+2021,数据库系统,"SysforAI,ML训练",Hindsight Logging for Model Training,"Rolando Garcia, UC Berkeley; et al.",http://vldb.org/pvldb/vol14/p682-garcia.pdf,https://github.com/ucbrise/flor
+2021,数据库系统,,In-Network Support for Transaction Triaging,"Theo Jepsen, Stanford University; et al.",http://vldb.org/pvldb/vol14/p1626-lerner.pdf,
+2021,大数据系统,,"Compact, Tamper-Resistant Archival of Fine-Grained Provenance","Nan  Zheng, University of Pennsylvania; et al.",http://vldb.org/pvldb/vol14/p485-zheng.pdf,
+2021,大数据系统,"SysforAI,机器学习",Capturing and querying fine-grained provenance of preprocessing pipelines in data science,"Adriane Chapman, University of Southampton; et al.",http://vldb.org/pvldb/vol14/p507-chapman.pdf,https://github.com/GiuliaSim/DataProvenance
+2021,大数据系统,SysforAI,Fine-Grained Lineage for Safer Notebook Interactions,"Stephen Macke, University of Illinois at Urbana-Champaign; et al.",http://vldb.org/pvldb/vol14/p1093-macke.pdf,https://github.com/nbsafety-project
+2021,数据库系统,,On the String Matching with k Differences in DNA Databases,"Yangjun Chen, University of Winnipeg; et al.",http://vldb.org/pvldb/vol14/p903-chen.pdf,
+2021,数据库系统,数据分析,A four-dimensional Analysis of Partitioned Approximate Filters,"Tobias Schmidt, TUM; et al.",http://vldb.org/pvldb/vol14/p2355-schmidt.pdf,https://github.com/tum-db/partitioned-filters
+2021,数据库系统,,Unconstrained Submodular Maximization with Modular Costs: Tight Approximation and Application to Profit Maximization,"Tianyuan Jin, National University of Singapore; et al.",http://vldb.org/pvldb/vol14/p1756-jin.pdf,
+2021,大数据系统,,Tailoring Data Source Distributions for Fairness-aware Data Integration,"Fatemeh Nargesian, University of Rochester; et al.",http://vldb.org/pvldb/vol14/p2519-nargesian.pdf,
+2021,大数据系统,"SysforAI,机器学习",Automated Feature Engineering for Algorithmic Fairness,"Ricardo Salazar, TU Berlin; et al.",http://vldb.org/pvldb/vol14/p1694-neutatz.pdf,https://github.com/RicardoSD/FairExp
+2021,大数据系统,,Explaining Monotonic Ranking Functions,"Abraham Gale, Rutgers University; et al.",http://vldb.org/pvldb/vol14/p640-marian.pdf,
+2021,系统安全与隐私,,Optimizing Fitness-For-Use of Differentially Private Linear Queries,"Yingtai Xiao, Pennsylvania State University; et al.",http://vldb.org/pvldb/vol14/p1730-xiao.pdf,
+2021,系统安全与隐私,"差分隐私,数据管理",Data Synthesis via Differentially Private Markov Random Field,"Kuntai Cai, National University of Singapore; et al.",http://vldb.org/pvldb/vol14/p2190-cai.pdf,https://github.com/caicre/PrivMRF
+2021,系统安全与隐私,差分隐私,Differentially Private Binary- and Matrix-Valued Data Query: An XOR Mechanism,"Tianxi Ji, Case Western Reserve University; et al.",http://vldb.org/pvldb/vol14/p849-ji.pdf,https://github.com/nestgroup/The-XOR-mechanism
+2021,系统安全与隐私,,Answering Multi-Dimensional Range Queries under Local Differential Privacy,"Jianyu Yang, Beijing University of Posts and Telecommunications; et al.",http://vldb.org/pvldb/vol14/p378-yang.pdf,
+2021,系统安全与隐私,,CGM: An Enhanced Mechanism for Streaming Data Collectionwith Local Differential Privacy,"ergute bao, national university of singapore; et al.",http://vldb.org/pvldb/vol14/p2258-bao.pdf,
+2021,数据库系统,,Minimum Vertex Augmentation,"Jianwen Zhao, Chinese University of Hong Kong; et al.",http://vldb.org/pvldb/vol14/p1454-tao.pdf,
+2021,数据库系统,,Automating Incremental Graph Processing with Flexible Memoization,"Shufeng Gong, NorthEastern University; et al.",http://vldb.org/pvldb/vol14/p1613-gong.pdf,
+2021,数据库系统,,RapidMatch: A Holistic Approach to Subgraph Query Processing,"Shixuan Sun, National University of Singapore; et al.",http://vldb.org/pvldb/vol14/p176-sun.pdf,
+2021,数据库系统,"图数据库,数据分析,数据库事务",Teseo and the Analysis of Structural Dynamic Graphs,"Dean De Leo, Centrum Wiskunde &amp; Informatica; et al.",http://vldb.org/pvldb/vol14/p1053-leo.pdf,https://github.com/cwida/gfe_driver
+2021,数据库系统,,ConnectIt: A Framework for Static and Incremental Parallel Graph Connectivity Algorithms,"Laxman Dhulipala, MIT CSAIL; et al.",http://vldb.org/pvldb/vol14/p653-dhulipala.pdf,
+2021,数据库系统,"异常检测,数据分析",Exathlon: A Benchmark for Explainable Anomaly Detection over Time Series,"Vincent Jacob, Ecole Polytechnique; et al.",http://vldb.org/pvldb/vol14/p2613-tatbul.pdf,https://github.com/exathlonbenchmark/exathlon
+2021,数据库系统,"数据分析,异常检测,在线分析",ORBITS: Online Recovery of Missing Values in Multiple Time Series Streams,"Mourad Khayati, University of Fribourg; et al.",http://vldb.org/pvldb/vol14/p294-khayati.pdf,https://github.com/eXascaleInfolab/orbits
+2021,数据库系统,"数据管理,压缩技术,查询优化",Heracles: An Efficient Storage Model And Data Flushing For Performance Monitoring Timeseries,"Zhiqi Wang, The Chinese University of HK; et al.",http://vldb.org/pvldb/vol14/p1080-wang.pdf,https://github.com/naivewong/heracles
+2021,数据库系统,,FlashP: An Analytical Pipeline for Real-time Forecasting of Time-Series Relational Data,"YAN SHUYUAN, Alibaba; et al.",http://vldb.org/pvldb/vol14/p721-ding.pdf,
+2021,机器学习系统,"AIforSys,自然语言处理,神经网络",DBTagger: Multi-Task Learning for Keyword Mapping in NLIDBs Using Bi-Directional Recurrent Neural Networks,"Arif Usta, Bilkent University; et al.",http://vldb.org/pvldb/vol14/p813-usta.pdf,https://github.com/arifusta/DBTagger
+2021,机器学习系统,"DNN,ML训练,ML优化",Analyzing and Mitigating Data Stalls in DNN Training,"Jayashree Mohan, UT Austin; et al.",http://vldb.org/pvldb/vol14/p771-mohan.pdf,https://github.com/msr-fiddle/DS-Analyzer
+2021,机器学习系统,"压缩技术,SysforAI,ML训练",Progressive Compressed Records: Taking a Byte out of Deep Learning Data,"Michael Kuchnik, Carnegie Mellon University; et al.",http://vldb.org/pvldb/vol14/p2627-kuchnik.pdf,https://github.com/mkuchnik/PCR_Release
+2021,机器学习系统,,Towards an Optimized GROUP BY Abstraction for Large-Scale Machine Learning,"Side Li, University of California San Diego; et al.",http://vldb.org/pvldb/vol14/p2327-li.pdf,
+2021,机器学习系统,,Dealer: An End-to-End Model Marketplace with Differential Privacy,"Jinfei Liu, Emory University/Georgia Institute of Technology; et al.",http://vldb.org/pvldb/vol14/p957-liu.pdf,
+2021,数据库系统,"索引结构,数据分析,AIforSys",Benchmarking Learned Indexes,"Ryan C Marcus, MIT; et al.",http://vldb.org/pvldb/vol14/p1-marcus.pdf,https://learned.systems/sosd
+2021,数据库系统,,Tsunami: A Learned Multi-dimensional Index for Correlated Data and Skewed Workloads,"Jialin Ding, MIT; et al.",http://vldb.org/pvldb/vol14/p74-ding.pdf,
+2021,数据库系统,,Cuckoo Index: A Lightweight Secondary Index Structure,"Andreas Kipf, MIT; et al.",http://vldb.org/pvldb/vol13/p3559-kipf.pdf,
+2021,数据库系统,,Updatable Learned Index with Precise Positions,"Jiacheng Wu, Tsinghua University; et al.",http://vldb.org/pvldb/vol14/p1276-wu.pdf,
+2021,数据库系统,"索引结构,性能调优",Scalable Structural Index Construction for JSON Analytics,"Lin Jiang, University of California Riverside; et al.",http://vldb.org/pvldb/vol14/p694-zhao.pdf,https://github.com/AutomataLab/Pison
+2021,机器学习系统,"SysforAI,ML优化,ML训练",Deep Entity Matching with Pre-Trained Language Models,"Yuliang Li, Megagon Labs; et al.",http://vldb.org/pvldb/vol14/p50-li.pdf,https://github .com/megagonlabs/ditto
+2021,机器学习系统,"SysforAI,ML训练,ML推理",Deep Learning for Blocking in Entity Matching: A Design Space Exploration,"Saravanan Thirumuruganathan, QCRI; et al.",http://vldb.org/pvldb/vol14/p2459-thirumuruganathan.pdf,https://github.com/saravanan-thirumuruganathan/DeepBlocker
+2021,机器学习系统,知识图谱,Dual-Objective Fine-Tuning of BERT for Entity Matching,"Ralph Peeters, University of Mannheim; et al.",http://vldb.org/pvldb/vol14/p1913-peeters.pdf,https://github.com/wbsg-uni-mannheim/jointbert
+2021,机器学习系统,,Discovering Related Data At Scale,"Sagar Bharadwaj K S, Microsoft; et al.",http://vldb.org/pvldb/vol14/p1392-bharadwaj.pdf,
+2021,机器学习系统,,TQEL: Framework for Query-Driven Linking of Top-K Entities in Social Media Blogs,"Abdulrahman Alsaudi, University of California Irvine; et al.",http://vldb.org/pvldb/vol14/p2642-alsaudi.pdf,
+2021,机器学习系统,"ML推理,SysforAI",Accelerating Large Scale Real-Time GNN Inference using Channel Pruning,"hongkuan zhou, University of Southern California; et al.",http://vldb.org/pvldb/vol14/p1597-zhou.pdf,https://github.com/tedzhouhk/GCNP
+2021,机器学习系统,,Efficient Streaming Subgraph Isomorphism with Graph Neural Networks,"Chi Thang Duong, Ecole Polytechnique Federale de Lausanne; et al.",http://vldb.org/pvldb/vol14/p730-duong.pdf,
+2021,机器学习系统,,Grain: Improving Data Efficiency of Graph Neural Networks via Diversified Influence Maximization,"Wentao Zhang, Peking University; et al.",http://vldb.org/pvldb/vol14/p2473-zhang.pdf,
+2021,机器学习系统,"ML训练,SysforAI",Large Graph Convolutional Network Training with GPU-Oriented Data Communication Architecture,"Seung Won Min, University of Illinois at Urbana-Champaign; et al.",http://vldb.org/pvldb/vol14/p2087-min.pdf,https://github.com/K-Wu/pytorch-direct_dgl
+2021,机器学习系统,,Multi-Modal Transportation Recommendation with Unified Route Representation Learning,"Hao LIU, Business Intelligence Lab Baidu Research; et al.",http://vldb.org/pvldb/vol14/p342-liu.pdf,
+2021,数据库系统,,Taurus: Lightweight Parallel Logging for In-Memory Database Management Systems,"Yu Xia, MIT; et al.",http://vldb.org/pvldb/vol14/p189-xia.pdf,
+2021,数据库系统,"数据预取,数据库事务",CoroBase: Coroutine-Oriented Main-Memory Database Engine,"Yongjun He, Simon Fraser University; et al.",http://vldb.org/pvldb/vol14/p431-he.pdf,https://github.com/sfu-dis/corobase/tree/v1.0
+2021,数据库系统,,Toward a Better Understanding and Evaluation of Tree Structures on Flash SSDs,"Diego Didona, IBM Research - Zurich; et al.",http://vldb.org/pvldb/vol14/p364-didona.pdf,
+2021,数据库系统,,An Analysis of Concurrency Control Protocols fo In-Memory Database with CCBench,"Takayuki Tanabe, University of Tsukuba; et al.",http://vldb.org/pvldb/vol13/p3531-tanabe.pdf,
+2021,数据库系统,"存储系统,LSMT",Constructing and Analyzing the LSM Compaction Design Space,"Subhadeep Sarkar, Boston University; et al.",http://vldb.org/pvldb/vol14/p2216-sarkar.pdf,https://disc.bu.edu/lsm-compaction
+2021,机器学习系统,,Scaling Attributed Network Embedding to Massive Graphs,"Renchi Yang, National University of Singapore; et al.",http://vldb.org/pvldb/vol14/p37-yang.pdf,
+2021,机器学习系统,"图计算,机器学习",FREDE: Anytime Graph Embeddings,"Anton Tsitsulin, University of Bonn; et al.",http://vldb.org/pvldb/vol14/p1102-mottin.pdf,https://github.com/xgfs/frede
+2021,机器学习系统,,Tensors: An abstraction for general data processing,"Dimitrios Koutsoukos, ETHZ; et al.",http://vldb.org/pvldb/vol14/p1797-koutsoukos.pdf,
+2021,机器学习系统,ML训练,TURL: Table Understanding through Representation Learning,"Xiang Deng, The Ohio State University; et al.",http://vldb.org/pvldb/vol14/p307-deng.pdf,https://github.com/sunlab-osu/TURL
+2021,并行与分布式系统,,Seagull: An Infrastructure for Load Prediction and Optimized Resource Allocation,"Olga Poppe, Microsoft; et al.",http://vldb.org/pvldb/vol14/p154-poppe.pdf,
+2021,并行与分布式系统,"拜占庭容错,数据库分析",ByShard: Sharding in a Byzantine Environment,"Jelle Hellings, University of California Davis; et al.",http://vldb.org/pvldb/vol14/p2230-hellings.pdf,https://www.jhellings.nl/projects/byshard
+2021,并行与分布式系统,,MorphoSys: Automatic Physical Design Metamorphosis for Distributed Database Systems,"Michael Abebe, University of Waterloo; et al.",http://vldb.org/pvldb/vol13/p3573-abebe.pdf,
+2021,并行与分布式系统,,Trident: Task Scheduling over Tiered Storage Systems in Big Data Platforms,"Herodotos  Herodotou, Cyprus University of Technology; et al.",http://vldb.org/pvldb/vol14/p1570-herodotou.pdf,
+2021,并行与分布式系统,,Towards Cost-Optimal Query Processing in the Cloud,"Viktor Leis, Friedrich-Alexander-Universität Erlangen-Nürnberg; et al.",http://vldb.org/pvldb/vol14/p1606-leis.pdf,
+2021,并行与分布式系统,,Crystal: A Unified Cache Storage System for Analytical Databases,"Dominik Durner, TUM; et al.",http://vldb.org/pvldb/vol14/p2432-durner.pdf,
+2021,系统安全与隐私,"区块链,密码学",CALYPSO: Private Data Management for Decentralized Ledgers,"Eleftherios Kokoris Kogias, IST Austria; et al.",http://vldb.org/pvldb/vol14/p586-kogias.pdf,https://github.com/calypso-demo
+2021,系统安全与隐私,"区块链,密码学",SlimChain: Scaling Blockchain Transactions through Off-Chain Storage and Parallel Processing,"Cheng Xu, Hong Kong Baptist University; et al.",http://vldb.org/pvldb/vol14/p2314-xu.pdf,https://github.com/hkbudb/slimchain
+2021,系统安全与隐私,,Building Enclave-Native Storage Engines for Practical Encrypted Databases,"Yuanyuan Sun, Alibaba Group; et al.",http://vldb.org/pvldb/vol14/p1019-sun.pdf,
+2021,系统安全与隐私,,Cryptanalysis of An Encrypted Database in SIGMOD '14,"Xinle Cao, Zhejiang University; et al.",http://vldb.org/pvldb/vol14/p1743-liu.pdf,
+2021,系统安全与隐私,,Software-Defined Data Protection: Low Overhead Policy Compliance at the Storage Layer is Within Reach!,"Zsolt István, IT University Copenhagen; et al.",http://vldb.org/pvldb/vol14/p1167-istvan.pdf,
+2021,机器学习系统,,Butterfly-Core Community Search over Labeled Graphs,"Zheng Dong, Baidu; et al.",http://vldb.org/pvldb/vol14/p2006-dong.pdf,
+2021,机器学习系统,,Efficient Size-Bounded Community Search over Large Networks,"Kai Yao, The University of Sydney; et al.",http://vldb.org/pvldb/vol14/p1441-yao.pdf,
+2021,机器学习系统,,ICS-GNN: Lightweight Interactive Community Search via Graph Neural Network,"Jun Gao, Peking University; et al.",http://vldb.org/pvldb/vol14/p1006-gao.pdf,
+2021,机器学习系统,数据挖掘,Scalable Community Detection via Parallel Correlation Clustering,"Jessica Shi, MIT; et al.",http://vldb.org/pvldb/vol14/p2305-shi.pdf,https://github.com/jeshi96/parallel-correlation-clustering
+2021,机器学习系统,"数据挖掘,并行算法",Scalable Mining of Maximal Quasi-Cliques: An Algorithm-System Codesign Approach,"Guimu Guo, The University of Alabama at Birmingham; et al.",http://vldb.org/pvldb/vol14/p573-guo.pdf,https://github.com/yanlab19870714/gthinkerQC
+2021,数据库系统,"数据库分析,数据库事务",Database Isolation By Scheduling,"Kevin P Gaffney, University of Wisconsin-Madison; et al.",http://vldb.org/pvldb/vol14/p1467-gaffney.pdf,https://github.com/UWHustle/dibs
+2021,数据库系统,,Epoch-based Commit and Replication in Distributed OLTP Databases,"Yi Lu, MIT; et al.",http://vldb.org/pvldb/vol14/p743-lu.pdf,
+2021,数据库系统,,Mainlining Databases: Supporting Fast Transactional Workloads on Universal Columnar Data File Formats,"Tianyu Li, Massachusetts Institute of Technology; et al.",http://vldb.org/pvldb/vol14/p534-li.pdf,
+2021,数据库系统,,Robustness against Read Committed for Transaction Templates,"Brecht Vandevoort, Hasselt University; et al.",http://vldb.org/pvldb/vol14/p2141-vandevoort.pdf,
+2021,数据库系统,,Permutable Compiled Queries: Dynamically Adapting Compiled Queries without Recompiling,"Prashanth Menon, Carnegie Mellon Universiy; et al.",http://vldb.org/pvldb/vol14/p101-menon.pdf,
+2021,系统安全与隐私,,Real-World Trajectory Sharing with Local Differential Privacy,"Teddy Cunningham, University of Warwick; et al.",http://vldb.org/pvldb/vol14/p2283-cunningham.pdf,
+2021,系统安全与隐私,差分隐私,Budget Sharing for Multi-Analyst Differential Privacy,"David A Pujol, Duke University; et al.",http://vldb.org/pvldb/vol14/p1805-pujol.pdf,https://github.com/yikai-wu/Multi-Analyst-DP
+2021,系统安全与隐私,,Improving Utility and Security of the Shuffler-based Differential Privacy,"Tianhao Wang, Purdue University; et al.",http://vldb.org/pvldb/vol13/p3545-wang.pdf,
+2021,系统安全与隐私,,Local Dampening: Differential Privacy for Non-numeric Queries via Local Sensitivity,"Victor Farias, Universidade Federal do Ceara; et al.",http://vldb.org/pvldb/vol14/p521-farias.pdf,
+2021,系统安全与隐私,差分隐私,Frequency Estimation under Local Differential Privacy,"Graham Cormode, University of Warwick; et al.",http://vldb.org/pvldb/vol14/p2046-cormode.pdf,https://github.com/Samuel-Maddock/pure-LDP
+2021,机器学习系统,,Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches,"Yuhao Zhang, University of California San Diego; et al.",http://vldb.org/pvldb/vol14/p1769-zhang.pdf,
+2021,机器学习系统,,Distributed Numerical and Machine Learning Computations via Two-Phase Execution of Aggregated Join Trees,"Dimitrije Jankov, Rice University; et al.",http://vldb.org/pvldb/vol14/p1228-jankov.pdf,
+2021,机器学习系统,,Tensor Relational Algebra for Distributed Machine Learning System Design,"Binhang Yuan, Rice University; et al.",http://vldb.org/pvldb/vol14/p1338-yuan.pdf,
+2021,机器学习系统,"机器学习,多核,SysforAI",ParaX: Boosting Deep Learning for Big Data Analytics on Many-Core CPUs,"Lujia Yin, NUDT; et al.",http://vldb.org/pvldb/vol14/p864-zhang.pdf,https://github.com/nicexlab/parax-source
+2021,机器学习系统,,Declarative Data Serving: The Future of Machine Learning Inference on the Edge,"Ted Shaowang, University of Chicago; et al.",http://vldb.org/pvldb/vol14/p2555-shaowang.pdf,
+2021,并行与分布式系统,,Parallel Discrepancy Detection and Incremental Detection,"Wenfei Fan, Univ. of Edinburgh; et al.",http://vldb.org/pvldb/vol14/p1351-tian.pdf,
+2021,并行与分布式系统,,Space- and Computationally-Efficient Set Reconciliation via Parity Bitmap Sketch (PBS),"Long Gong, Facebook; et al.",http://vldb.org/pvldb/vol14/p458-gong.pdf,
+2021,并行与分布式系统,"数据库事务,异常检测",Elle: Inferring Isolation Anomalies from Experimental Observations,"Peter Alvaro, UC Santa Cruz; et al.",http://vldb.org/pvldb/vol14/p268-alvaro.pdf,https://github.com/jepsen-io/jepsen
+2021,并行与分布式系统,,Language-Agnostic Integrated Queries in a Managed Polyglot Runtime,"Filippo Schiavio, Università della Svizzera italiana; et al.",http://vldb.org/pvldb/vol14/p1414-schiavio.pdf,
+2021,并行与分布式系统,,Lachesis: Automatic Partitioning for UDF-Centric Analytics,"Jia Zou, Arizona State University; et al.",http://vldb.org/pvldb/vol14/p1262-zou.pdf,
+2021,数据库系统,"查询优化,SQL优化","Beyond Equi-joins: Ranking, Enumeration and Factorization","Nikolaos Tziavelis, Northeastern University; et al.",http://vldb.org/pvldb/vol14/p2599-tziavelis.pdf,https://github.com/northeastern-datalab/anyk-code
+2021,数据库系统,,A Practical Approach to Groupjoin and Nested Aggregates,"Philipp Fent, TUM; et al.",http://vldb.org/pvldb/vol14/p2383-fent.pdf,
+2021,数据库系统,"查询优化,索引结构",Stacked Filters: Learning to Filter by Structure,"Kyle B Deeds, Harvard University; et al.",http://vldb.org/pvldb/vol14/p600-hentschel.pdf,https://bitbucket.org/HarvardDASlab/stackedfilters
+2021,数据库系统,"查询优化,编译优化",Charting the Design Space of Query Execution using VOILA,"Tim Gubner, CWI; et al.",http://vldb.org/pvldb/vol14/p1067-gubner.pdf,https://github.com/t1mm3/vldb_voila
+2021,数据库系统,"图数据库,查询优化",Columnar Storage and List-based Processing for Graph Database Management Systems,"Pranjal Gupta, University of Waterloo; et al.",http://vldb.org/pvldb/vol14/p2491-gupta.pdf,https://github.com/graphflow/graphflow-columnar-techniques
+2021,数据库系统,,On Querying Historical K-Cores,"Michael R Yu, UNSW; et al.",http://vldb.org/pvldb/vol14/p2033-wen.pdf,
+2021,数据库系统,,An Experimental Evaluation and Guideline for Path Finding in Weighted Dynamic Network,"Mengxuan Zhang, The University of Queensland; et al.",http://vldb.org/pvldb/vol14/p2127-zhang.pdf,
+2021,数据库系统,"知识图谱,图计算",Materializing Knowledge Bases via Trigger Graphs,"Efthymia Tsamoura, Samsung AI Research; et al.",http://vldb.org/pvldb/vol14/p943-tsamoura.pdf,https://github.com/karmaresearch/glog
+2021,数据库系统,,Estimating Spread of Contact-Based Contagions in a Population Through Sub-Sampling,"Sepanta Zeighami, University of Southern California; et al.",http://vldb.org/pvldb/vol14/p1557-zeighami.pdf,

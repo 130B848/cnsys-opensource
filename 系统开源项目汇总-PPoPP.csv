@@ -1,0 +1,185 @@
+﻿年份,领域大类,  ,论文标题,作者,论文链接,项目链接
+2021,并行与分布式系统,"数据库事务,并行算法,NVRAM",Efficient Algorithms for Persistent Transactional Memory,"Pedro Ramalhete, Cisco Systems; et al.",https://dl.acm.org/doi/10.1145/3437801.3441586,https://zenodo.org/record/4362578
+2021,并行与分布式系统,"并发控制,数据库事务,数据库分析",Investigating the Semantics of Futures in Transactional Memory Systems,"Jingna Zeng, KTH Royal Institute of Technology; et al.",https://dl.acm.org/doi/10.1145/3437801.3441594,https://zenodo.org/record/4323407
+2021,并行与分布式系统,"并发控制,快照,并发数据结构",Constant-Time Snapshots with Applications to Concurrent Data Structures,"Yuanhao Wei, Carnegie Mellon University; et al.",https://dl.acm.org/doi/10.1145/3437801.3441602,https://zenodo.org/record/4451727
+2021,并行与分布式系统,"树遍历,程序优化",Reasoning About Recursive Tree Traversals,"Yanjun Wang, Purdue University; et al.",https://dl.acm.org/doi/10.1145/3437801.3441617,https://zenodo.org/record/4300945
+2021,程序语言与编译器,,Synthesizing Optimal Collective Algorithms,"Zixian, Cai Australian National University; et al.",https://dl.acm.org/doi/10.1145/3437801.3441620,
+2021,程序语言与编译器,程序分析,Parallel Binary Code Analysis,"Xiaozhu Meng, Rice University; et al.",https://dl.acm.org/doi/10.1145/3437801.3441604,https://zenodo.org/record/4451520
+2021,程序语言与编译器,,Compiler Support for Near Data Computing,"Mahmut Taylan Kandemir ,Penn State University; et al.",https://dl.acm.org/doi/10.1145/3437801.3441600,
+2021,程序语言与编译器,,Scaling Implicit Parallelism via Dynamic Control Replication,"Michael Bauer, NVIDIA; et al.",https://dl.acm.org/doi/10.1145/3437801.3441587,
+2021,机器学习系统,,Understanding and Bridging the Gaps in Current GNN Performance Optimizations,"Kezhao Huang, Tsinghua University; et al.",https://dl.acm.org/doi/10.1145/3437801.3441585,
+2021,机器学习系统,"GPU,程序优化",A Fast Work-Efficient SSSP Algorithm for GPUs,"Kai Wang,University of Texas at Austin; et al.",https://dl.acm.org/doi/10.1145/3437801.3441605,https://zenodo.org/record/4365954
+2021,机器学习系统,,ShadowVM: Accelerating Data Plane for Data Analytics with Bare Metal CPUs and GPUs,"Zhifang Li, East China Normal University; et al.",https://dl.acm.org/doi/10.1145/3437801.3441595,
+2021,机器学习系统,"并行算法,程序优化",BiPart: A Parallel and Deterministic Hypergraph Partitioner,"Sepideh Maleki, The University of Texas at Austin; et al.",https://dl.acm.org/doi/10.1145/3437801.3441611,https://zenodo.org/record/4294144
+2021,文件和存储系统,"并发安全,并发控制,内存安全",NBR: Neutralization Based Reclamation,"Ajay Singh,University of Waterloo; et al.",https://dl.acm.org/doi/10.1145/3437801.3441625,https://zenodo.org/record/4409185
+2021,文件和存储系统,,Efficiently Reclaiming Memory in Concurrent Search Data Structures While Bounding Wasted Memory,"Daniel Solomon, Tel Aviv University; et al.",https://dl.acm.org/doi/10.1145/3437801.3441582,
+2021,文件和存储系统,"内存安全,内存管理",OrcGC: Automatic Lock-Free Memory Reclamation,"Andreia Correia, University of Neuchatel, Switzerland; et al.",https://dl.acm.org/doi/10.1145/3437801.3441596,https://zenodo.org/record/4362581
+2021,文件和存储系统,"GPU,内存管理,性能调优",Are Dynamic Memory Managers on GPUs Slow? A Survey and Benchmarks,"Martin Winter, Graz University of Technology; et al.",https://dl.acm.org/doi/10.1145/3437801.3441612,https://zenodo.org/record/4299429
+2021,机器学习系统,,GPTune: Multitask Learning for Autotuning Exascale Applications,"Yang Liu, Lawrence Berkeley National Laboratory; et al.",https://dl.acm.org/doi/10.1145/3437801.3441621,
+2021,机器学习系统,,I/O Lower Bounds for Auto-tuning of Convolutions in CNNs,"Xiaoyang Zhang, Institute of Computing Technology; et al.",https://dl.acm.org/doi/10.1145/3437801.3441609,
+2021,机器学习系统,,ApproxTuner: A Compiler and Runtime System for Adaptive Approximations,"Hashim Sharif, University of Illinois at Urbana Champaign; et al.",https://dl.acm.org/doi/10.1145/3437801.3446108,
+2021,并行与分布式系统,,POSTER: On Group Mutual Exclusion for Dynamic Systems,"Shreyas Gokhale, The University of Texas at Dallas; et al.",https://dl.acm.org/doi/10.1145/3437801.3441608,
+2021,并行与分布式系统,"查询优化,程序优化",POSTER: Bundled References: An Abstraction for Highly-Concurrent Linearizable Range Queries,"Jacob Nelson, Lehigh University; et al.",https://dl.acm.org/doi/10.1145/3437801.3441614,https://zenodo.org/record/4402298
+2021,并行与分布式系统,,POSTER: Verifying C11-Style Weak Memory Libraries,"Sadegh Dalvandi, University of Surrey; et al.",https://dl.acm.org/doi/10.1145/3437801.3441619,
+2021,并行与分布式系统,,POSTER: A Lock-free Relaxed Concurrent Queue for Fast Work Distribution,"Giorgos Kappes,University of Ioannina; et al.",https://dl.acm.org/doi/10.1145/3437801.3441583,
+2021,并行与分布式系统,并发控制,"POSTER: A more Pragmatic Implementation of the Lock-free, Ordered, Linked List","Jesper Träff, TU Wien; et al.",https://dl.acm.org/doi/10.1145/3437801.3441579,https://zenodo.org/record/4374863
+2021,并行与分布式系统,,POSTER: Extending MapReduce Framework with Locality Keys,"Yifeng Cheng, Peiking University; et al.",https://dl.acm.org/doi/10.1145/3437801.3441607,
+2021,并行与分布式系统,,POSTER: On the Parallel I/O Optimality of Linear Algebra Kernels: Near-Optimal LU Factorization,"Grzegorz Kwasniewski, ETH Zurich; et al.",https://dl.acm.org/doi/10.1145/3437801.3441590,
+2021,并行与分布式系统,,POSTER: Asynchrony versus Bulk-Synchrony for a Generalized N-body Problem from Genomics,"Marquita Ellis, University of California at Berkeley & Lawrence Berkeley National Lab; et al.",https://dl.acm.org/doi/10.1145/3437801.3441580,
+2021,并行与分布式系统,,POSTER: In-situ Workflow Auto-tuning through Combining Component Models,"Tong Shu, Southern Illinois University Carbondale; et al.",https://dl.acm.org/doi/10.1145/3437801.3441615,
+2021,并行与分布式系统,,POSTER: Simplifying Low-Level GPU Programming with GAS,"Da Yan, Hong Kong University of Science and Technology; et al.",https://dl.acm.org/doi/10.1145/3437801.3441591,
+2021,并行与分布式系统,,POSTER: Corder: Cache-Aware Reordering for Optimizing Graph Analytics,"YuAng Chen, The Chinese University of Hong Kong; et al.",https://dl.acm.org/doi/10.1145/3437801.3441606,
+2021,并行与分布式系统,,POSTER: DFOGraph: An I/O- and Communication-Efficient System for Distributed Fully-out-of-Core Graph Processing,"Jiping Yu, Tsinghua University; et al.",https://dl.acm.org/doi/10.1145/3437801.3441622,
+2021,并行与分布式系统,,POSTER: An Efficient Uncertain Graph Processing Framework for Heterogeneous Architectures,"Heng Zhang, Institute of Software; et al.",https://dl.acm.org/doi/10.1145/3437801.3441584,
+2021,并行与分布式系统,,POSTER: Dynamic Scaling for Low-Precision Learning,"Ruobing Han, Peking University; et al.",https://dl.acm.org/doi/10.1145/3437801.3441624,
+2021,并行与分布式系统,,POSTER: Exploring Deep Reuse in Winograd CNN Inference,"Ruofan Wu, Renmin University of China; et al.",https://dl.acm.org/doi/10.1145/3437801.3441588,
+2021,并行与分布式系统,,"	POSTER: A Novel Memory-Efficient Deep Learning Training Framework via Error-Bounded Lossy Compression","Sian Jin,Washington State University; et al.",https://dl.acm.org/doi/10.1145/3437801.3441597,
+2021,并行与分布式系统,,POSTER: FFT Blitz: The Tensor Cores Strike Back,"Sultan Durrani, University of Illinois at Urbana-Champaign; et al.",https://dl.acm.org/doi/10.1145/3437801.3441623,
+2021,并行与分布式系统,"多核,程序优化,并行算法",Advanced Synchronization Techniques for Task-based Runtime Systems,"David Álvarez, Barcelona Supercomputing Center; et al.",https://dl.acm.org/doi/10.1145/3437801.3441601,https://zenodo.org/record/4290558
+2021,并行与分布式系统,,An Ownership Policy and Deadlock Detector for Promises,"Caleb Voss, Georgia Institute of Technology; et al.",https://dl.acm.org/doi/10.1145/3437801.3441616,
+2021,并行与分布式系统,,Understanding a Program's Resiliency Through Error Propagation,"zhimin li,  Lawrence Livermore National Laboratory; et al.",https://dl.acm.org/doi/10.1145/3437801.3441589,
+2021,并行与分布式系统,"调度策略,多核","	Lightweight Preemptive User-Level Threads","Shumpei Shiina, The University of Tokyo; et al.",https://dl.acm.org/doi/10.1145/3437801.3441610,https://zenodo.org/record/3881437
+2021,并行与分布式系统,"SysforAI,ML推理,ML优化,机器学习","	TurboTransformers: An Efficient GPU Serving System For Transformer Models","Jiarui Fang, Tencent; et al.",https://dl.acm.org/doi/10.1145/3437801.3441578,https://zenodo.org/record/4299305
+2021,机器学习系统,"程序分析,静态分析,性能调优","	Extracting Clean Performance Models from Tainted Programs","Marcin Copik, ETH Zurich; et al.",https://dl.acm.org/doi/10.1145/3437801.3441613,https://zenodo.org/record/4381803
+2021,机器学习系统,,"	Modernizing Parallel Code with Pattern Analysis","Roberto Castañeda Lozano, University of Edinburgh; et al.",https://dl.acm.org/doi/10.1145/3437801.3441603,
+2021,机器学习系统,,DAPPLE: A Pipelined Data Parallel Approach for Training Large Models,"Shiqing Fan, Alibaba Group; et al.",https://dl.acm.org/doi/10.1145/3437801.3441593,https://zenodo.org/record/3887385
+2021,并行与分布式系统,,EGEMM-TC: Accelerating Scientific Computing on Tensor Cores with Extended Precision,"Boyuan Feng, UC Santa Barbara; et al.",https://dl.acm.org/doi/10.1145/3437801.3441599,
+2021,并行与分布式系统,"稀疏矩阵,多核,并行算法",Efficiently Running SpMV on Long Vector Architectures,"Constantino Gómez, Barcelona Supercomputing Center; et al.",https://dl.acm.org/doi/10.1145/3437801.3441592,https://zenodo.org/record/4362457
+2021,并行与分布式系统,,Improving Communication by Optimizing On-Node Data Movement with Data Layout,"Tuowen Zhao, University of Utah; et al.",https://dl.acm.org/doi/10.1145/3437801.3441598,
+2021,并行与分布式系统,,"	Sparta: High-Performance, Element-Wise Sparse Tensor Contraction on Heterogeneous Memory","Jiawen Liu, University of California; et al.",https://dl.acm.org/doi/10.1145/3437801.3441581,
+2020,"并行与分布式系统,数据库系统","崩溃一致性,键值存储",Kite: Efficient and Available Release Consistency for the Datacenter,"Vasilis Gavrielatos, University of Edinburgh, UK; et al.",https://dl.acm.org/doi/10.1145/3332466.3374516,https://github.com/icsa-caps/Kite
+2020,"程序语言与编译器,并行与分布式系统","内存管理,JVM",Oak: A Scalable Off-Heap Allocated Key-Value Map,"Hagar Meir, IBM Haifa Research Lab; et al.",https://dl.acm.org/doi/10.1145/3332466.3374526,https://github.com/yahoo/oak
+2020,,,Optimizing Batched Winograd Convolution on GPUs,"Da Yan, Hong Kong University of Science and Technology; et al.",https://dl.acm.org/doi/abs/10.1145/3332466.3374520,
+2020,,,Taming Unbalanced Training Workloads in Deep Learning with Partial Collective Operations,"Shigang Li, ETH Zurich; et al.",https://dl.acm.org/doi/10.1145/3332466.3374528,
+2020,,,Scalable Top-K Retrieval with Sparta,"Gali Sheffi, Technion - Israe; et al.",https://dl.acm.org/doi/10.1145/3332466.3374522,
+2020,计算机体系结构,"软硬件协同,硬件卸载",waveSZ: A Hardware-Algorithm Co-Design of Efficient Lossy Compression for Scientific Data,"Jiannan Tian, University of Alabama; et al.",https://dl.acm.org/doi/10.1145/3332466.3374525,https://github.com/jtian0/20_PPoPP_artifacts
+2020,,,Scaling Concurrent Queues by Using HTM to Profit from Failed Atomic Operations,"Or Ostrovsky, Tel Aviv University; et al.",https://dl.acm.org/doi/abs/10.1145/3332466.3374511,
+2020,并行与分布式系统,"并发安全,内存管理",A Wait-Free Universal Construct for Large Objects,"Andreia Correia, University of Neuchâtel; et al.",https://dl.acm.org/doi/pdf/10.1145/3332466.3374523,https://github.com/pramalhe/CX
+2020,并行与分布式系统,流处理,Fast Concurrent Data Sketches,"Arik Rinberg, Technion; et al.",https://dl.acm.org/doi/10.1145/3332466.3374512,https://github.com/ArikRinberg/FastConcurrentDataSketchesArtifact
+2020,"操作系统,并行与分布式系统",内存管理,Universal Wait-Free Memory Reclamation,"Ruslan Nikolaev, Virginia Tech; et al.",https://dl.acm.org/doi/10.1145/3332466.3374540,https://github.com/rusnikola/wfe
+2020,并行与分布式系统,程序分析,Using Sample-Based Time Series Data for Automated Diagnosis of Scalability Losses in Parallel Programs,"Lai Wei, Rice University; et al.",https://dl.acm.org/doi/abs/10.1145/3332466.3374538,"https://github.com/hpctoolkit/hpctoolkit, https://github.com/hpctoolkit/hpcviewer"
+2020,,,Scaling out Speculative Execution of Finite-State Machines with Parallel Merge,"Yang Xia, The Ohio State University; et al.",https://dl.acm.org/doi/10.1145/3332466.3374524,
+2020,"并行与分布式系统,程序语言与编译器",程序分析,On the fly MHP Analysis,"Sonali Saha, IIT Madras; et al.",https://dl.acm.org/doi/abs/10.1145/3332466.3374541,https://drive.google.com/drive/folders/ 1Y1b21-oWSKiLKajrgSwgKnLyv_K7rE5A?usp=sharing
+2020,,,Detecting and Reproducing Error-Code Propagation Bugs in MPI Implementations,"Daniel DeFreez, University of California, Davis; et al.",https://dl.acm.org/doi/abs/10.1145/3332466.3374515,
+2020,,,Parallel and Distributed Bounded Model Checking of Multi-threaded Programs,"Omar Inverso, Gran Sasso Science Institute; et al.",https://dl.acm.org/doi/abs/10.1145/3332466.3374529,
+2020,,,Parallel Race Detection with Futures,"Yifan Xu, Washington University in St. Louis; et al.",https://dl.acm.org/doi/10.1145/3332466.3374536,
+2020,"并行与分布式系统,大数据系统","图计算,并行算法",Practical Parallel Hypergraph Algorithms,"Julian Shun, MIT",https://dl.acm.org/doi/10.1145/3332466.3374527,https://github.com/jshun/ppopp20-ae
+2020,,,A Supernodal All-Pairs Shortest Path Algorithm,"Piyush Kumar Sao, Oak Ridge National Lab; et al.",https://dl.acm.org/doi/10.1145/3332466.3374533,
+2020,,,Increasing the Parallelism of Graph Coloring via Shortcutting,"Ghadeer Alabandi, Texas State University; et al.",https://dl.acm.org/doi/10.1145/3332466.3374519,
+2020,"并行与分布式系统,数据库系统","索引结构,并行算法",Non-Blocking Interpolation Search Trees with Doubly-Logarithmic Running Time,"Trevor Brown, University of Waterloo; et al.",https://dl.acm.org/doi/10.1145/3332466.3374542,https://zenodo.org/record/3600160#.XhReF2bQi5M
+2020,"并行与分布式系统,程序语言与编译器",编程语言,YewPar: Skeletons for Exact Combinatorial Search,"Blair Archibald, University of Glasgow; et al.",https://dl.acm.org/doi/abs/10.1145/3332466.3374537,https://github.com/BlairArchibald/YewPar
+2020,"数据库系统,机器学习系统","索引结构,AIforSys,键值存储",XIndex: A Scalable Learned Index for Multicore Data Storage,"Chuzhe Tang, Shanghai Jiao Tong University; et al.",https://dl.acm.org/doi/10.1145/3332466.3374547,https://ipads.se.sjtu.edu.cn:1312/opensource/xindex
+2020,,,Overlapping Host-to-Device Copy and Computation using Hidden Unified Memory,"Jaehoon Jung, Seoul National University; et al.",https://dl.acm.org/doi/abs/10.1145/3332466.3374531,
+2020,,,GPU Initiated OpenSHMEM: Correct and Efficient Intra-Kernel Networking for dGPUs,"KHALED HAMIDOUCHE, Advanced Micro Devices (AMD); et al.",https://dl.acm.org/doi/10.1145/3332466.3374544,
+2020,,,No Barrier in the Road: A Comprehensive Study and Optimization of ARM Barriers,"Nian Liu, Shanghai Jiao Tong University; et al.",https://dl.acm.org/doi/abs/10.1145/3332466.3374535,
+2020,,,spECK: Accelerating GPU Sparse Matrix-Matrix Multiplication Through Lightweight Analysis,"Mathias Parger, Graz University of Technology; et al.",https://dl.acm.org/doi/abs/10.1145/3332466.3374521,
+2020,,,A Novel Data Transformation and Execution Strategy for Accelerating Sparse Matrix Multiplication on GPUs,"Peng Jiang, The University of Iowa; et al.",https://dl.acm.org/doi/10.1145/3332466.3374546,
+2020,机器学习系统,SysforAI,MatRox: Modular approach for improving data locality in Hierarchical (Mat)rix App(Rox)imation,"Bangtian Liu, University of Toronto; et al.",https://dl.acm.org/doi/abs/10.1145/3332466.3374548,https://github.com/kobeliu85/MatRox_RU
+2019,机器学习系统,"SysforAI,DNN",Beyond Human-Level Accuracy: Computational Challenges in Deep Learning,"Joel Hestness, Baidu Research; et al.",https://doi.org/10.1145/3293883.3295710,https://doi.org/10.5281/zenodo.2259280
+2019,程序语言与编译器,并行算法,S-EnKF: Co-Designing for Scalable Ensemble Kalman Filter,"Junmin Xiao, Institute of Computing Technology, Chinese Academy of Sciences; et al.",https://doi.org/10.1145/3293883.3295722,
+2019,计算机体系结构,"GPU,内存管理",Throughput-Oriented GPU Memory Allocation,"Isaac Gelado, NVIDIA; et al.",https://doi.org/10.1145/3293883.3295727,
+2019,大数据系统,"图计算,GPU",SEP-Graph: Finding Shortest Execution Paths for Graph Processing under a Hybrid Framework on GPU,"Hao Wang, The Ohio State University, USA; et al.",https://doi.org/10.1145/3293883.3295733,https://github.com/SEP-Graph/sep-graph
+2019,程序语言与编译器,GPU,Incremental Flattening for Nested Data Parallelism,"Troels Henriksen, University of Copenhagen, Denmark; et al.",https://doi.org/10.1145/3293883.3295707,https://doi.org/10.1145/3300173
+2019,程序语言与编译器,GPU,Adaptive Sparse Matrix-Matrix Multiplication on the GPU,"Martin Winter, Graz University of Technology, Austria; et al.",https://doi.org/10.1145/3293883.3295701,https://github.com/GPUPeople/ACSpGEMM
+2019,数据库系统,数据库事务,Modular Transactions: Bounding Mixed Races in Space and Time,"Brijesh Dongol, University of Surrey; et al.",https://doi.org/10.1145/3293883.3295708,
+2019,计算机体系结构,HTM,Leveraging Hardware TM in Haskell,"Ryan Yates, University of Rochester; et al.",https://doi.org/10.1145/3293883.3295711,https://doi.org/10.5281/zenodo.1998472
+2019,计算机体系结构,HTM,Stretching the Capacity of Hardware Transactional Memory in IBM POWER Architectures,"Ricardo Filipe, INESC-ID; et al.",https://doi.org/10.1145/3293883.3295714,https://doi.org/10.6084/m9.figshare.7378496.v2
+2019,数据库系统,数据库事务,Processing Transactions in a Predefined Order,"Mohamed M. Saad, Virginia Tech; et al.",https://doi.org/10.1145/3293883.3295730,
+2019,程序语言与编译器,"索引结构,GPU",Harmonia: A High Throughput B+tree for GPUs,"Zhaofeng Yan, Fudan University; et al.",https://doi.org/10.1145/3293883.3295704,
+2019,程序语言与编译器,"索引结构,GPU",Engineering a High-Performance GPU B-Tree,"Muhammad A. Awad, University of California, Davis; et al.",https://doi.org/10.1145/3293883.3295706,https://github.com/owensgroup/GpuBTree
+2019,系统安全与隐私,内存安全,QTLS: High-Performance TLS Asynchronous Offload Framework with Intel® QuickAssist Technology,"Xiaokang Hu, Shanghai Jiao Tong University; et al.",https://doi.org/10.1145/3293883.3295705,https://doi.org/10.5281/zenodo.2008661
+2019,程序语言与编译器,程序分析,Data-Flow/Dependence Profiling for Structured Transformations,"Fabian Gruber, Université Grenoble Alpes / INRIA Grenoble Rhônes-Alpes; et al.",https://doi.org/10.1145/3293883.3295737,
+2019,计算机体系结构,HTM,Lightweight Hardware Transactional Memory Profiling,"Qingsen Wang, College of William and Mary; et al.",https://doi.org/10.1145/3293883.3295728,https://github.com/ScalableMachinesResearch/HTMBench
+2019,大数据系统,"图计算,GPU",A Pattern Based Algorithmic Autotuner for Graph Processing on GPUs,"Ke Meng, Georgia Institute of Technology; et al.",https://doi.org/10.1145/3293883.3295716,https://doi.org/10.5281/zenodo.149090
+2019,程序语言与编译器,,Provably and Practically Efficient Granularity Control,"Umut A. Acar, Carnegie Mellon University; et al.",https://doi.org/10.1145/3293883.3295725,
+2019,程序语言与编译器,GPU,A Coordinated Tiling and Batching Framework for Efficient GEMM on GPUs,"Xiuhong Li, Peking University; et al.",https://doi.org/10.1145/3293883.3295734,https://doi.org/10.1145/3300174
+2019,程序语言与编译器,"调度策略,并行算法",Semantics-Aware Scheduling Policies for Synchronization Determinism,"Qi Zhao, North Carolina State University; et al.",https://doi.org/10.1145/3293883.3295731,https://doi.org/10.1145/3300171
+2019,程序语言与编译器,"调度策略,并行算法",Proactive Work Stealing for Futures,"Kyle Singer, Washington University in St. Louis; et al.",https://doi.org/10.1145/3293883.3295735,https://doi.org/10.5281/zenodo.2227457
+2019,程序语言与编译器,并行算法,A Round-Efficient Distributed Betweenness Centrality Algorithm,"Loc Hoang, University of Texas at Austin, USA; et al.",https://doi.org/10.1145/3293883.3295729,https://doi.org/10.5281/zenodo.2399798
+2019,数据中心系统,并行算法,Corrected Trees for Reliable Group Communication,"Martin K\""{u}ttler, TU Dresden; et al.",https://doi.org/10.1145/3293883.3295721,https://doi.org/10.5281/zenodo.1493446
+2019,程序语言与编译器,GPU,Adaptive Sparse Tiling for Sparse Matrix Multiplication,"Changwan Hong, Ohio State University; et al.",https://doi.org/10.1145/3293883.3295712,https://doi.org/10.1145/3300172
+2019,程序语言与编译器,数据库事务,Encapsulated Open Nesting for STM: Fine-Grained Higher-Level Conflict Detection,"Martin B\""{a}ttig, Department of Computer Science, ETH Zurich; et al.",https://doi.org/10.1145/3293883.3295723,
+2019,程序语言与编译器,索引结构,A Specialized B-Tree for Concurrent Datalog Evaluation,"Herbert Jordan, University of Innsbruck; et al.",https://doi.org/10.1145/3293883.3295719,
+2019,程序语言与编译器,程序分析,Efficient Race Detection with Futures,"Robert Utterback, Monmouth College; et al.",https://doi.org/10.1145/3293883.3295732,https://doi.org/10.5281/zenodo.2510564
+2019,形式化验证,"程序分析,形式化验证",Verifying C11 Programs Operationally,"Simon Doherty, University of Sheffield; et al.",https://doi.org/10.1145/3293883.3295702,
+2019,程序语言与编译器,并发控制,Checking Linearizability Using Hitting Families,"Burcu Kulahcioglu Ozkan, MPI-SWS, Germany; et al.",https://doi.org/10.1145/3293883.3295726,https://doi.org/10.5281/zenodo.1890165
+2019,程序语言与编译器,"程序分析,并发控制",Transitive Joins: A Sound and Efficient Online Deadlock-Avoidance Policy,"Caleb Voss, Georgia Institute of Technology; et al.",https://doi.org/10.1145/3293883.3295724,
+2018,程序语言与编译器,,An Effective Fusion and Tile Size Model for Optimizing Image Processing Pipelines,Abhinav Jangda，Indian Institute of Science Dept of CSA; et al.,https://doi.org/10.1145/3200691.3178507,https://doi.org/10.5281/zenodo.1168539
+2018,机器学习系统,,Bridging the Gap between Deep Learning and Sparse Matrix Format Selection,Yue Zhao，North Carolina State University; et al.,https://doi.org/10.1145/3200691.3178495,https://doi.org/10.6084/m9.figshare.5873868
+2018,并行与分布式系统,,Cache-Tries: Concurrent Lock-Free Hash Tries with Constant-Time Operations,Aleksandar Prokopec，Oracle Labs; et al.,https://doi.org/10.1145/3200691.3178498,https://doi.org/10.5281/zenodo.1168402
+2018,并行与分布式系统,,Communication-avoiding parallel minimum cuts and connected components,Lukas Gianinazzi，ETH Zurich; et al.,https://doi.org/10.1145/3200691.3178504,https://doi.org/10.5281/zenodo.1169439
+2018,并行与分布式系统,,Efficient parallel determinacy race detection for two-dimensional dags,Yifan Xu，Washington University in St. Louis; et al.,https://doi.org/10.1145/3200691.3178515,https://doi.org/10.5281/zenodo.1169390
+2018,形式化验证,,Featherlight On-the-fly False-sharing Detection,"Milind Chabbi，Baidu Research, USA; et al.",https://doi.org/10.1145/3200691.3178499,https://doi.org/10.5281/zenodo.1168535
+2018,数据库系统,,Harnessing Epoch-based Reclamation for Efficient Range Queries,Maya Arbel-Raviv，Technion - Israel Institute of Technolog; et al.,https://doi.org/10.1145/3200691.3178489,https://doi.org/10.5281/zenodo.1168726
+2018,操作系统,,Interval-Based Memory Reclamation,Haosen Wen，University of Rochester; et al.,https://doi.org/10.1145/3200691.3178488,https://doi.org/10.5281/zenodo.1168572
+2018,并行与分布式系统,,Juggler: A Dependency-Aware Task Based Execution Framework for GPUs,Mehmet E. Belviranli，Oak Ridge National Laboratory; et al.,https://doi.org/10.1145/3200691.3178492,https://doi.org/10.5281/zenodo.1168558
+2018,并行与分布式系统,,Making Pull-Based Graph Processing Performant,Samuel Grossman，Stanford University; et al.,https://doi.org/10.1145/3200691.3178506,https://doi.org/10.5281/zenodo.1169388
+2018,软件测试,,"Optimizing N-dimensional, winograd-based convolution for manycore CPUs",Zhen Jia，Princeton University; et al.,https://doi.org/10.1145/3200691.3178496,https://figshare.com/articles/software/ond-winograd_zip/5866728
+2018,并行与分布式系统,,PAM: Parallel Augmented Maps,Yihan Sun，Carnegie Mellon University; et al.,https://doi.org/10.1145/3200691.3178509,https://doi.org/10.5281/zenodo.1168703
+2018,程序语言与编译器,,Register Optimizations for Stencils on GPUs,Prashant Singh Rawat，The Ohio State University; et al.,https://doi.org/10.1145/3200691.3178500,https://doi.org/10.5281/zenodo.1168498
+2018,并行与分布式系统,,swSpTRSV: a Fast Sparse Triangular Solve with Sparse Level Tile Layout on Sunway Architectures,Xinliang Wang，Tsinghua University; et al.,https://doi.org/10.1145/3200691.3178513,https://doi.org/10.5281/zenodo.1168762
+2018,形式化验证,,"VerifiedFT: a verified, high-performance precise dynamic race detector",James R. Wilcox，University of Washington; et al.,https://doi.org/10.1145/3200691.3178514,https://doi.org/10.5281/zenodo.1171046
+2017,计算机体系结构,,EffiSha: A Software Framework for Enabling Effficient Preemptive Scheduling of GPU,"Guoyang Chen,  North Carolina State University; et al.",https://dl.acm.org/doi/10.1145/3018743.3018748,
+2017,计算机体系结构,,Layout Lock: A Scalable Locking Paradigm for Concurrent Data Layout Modifications,"Nachshon Cohen, Technion Institute of Technology; et al.",https://dl.acm.org/doi/10.1145/3018743.3018753,
+2017,计算机体系结构,,Understanding the GPU Microarchitecture to Achieve Bare-Metal Performance Tuning,"Xiuxia Zhang, Chinese Academy of Sciences; et al.",https://dl.acm.org/doi/10.1145/3018743.3018755,https://github.com/PAA-NCIC/PPoPP2017_artifact
+2017,并行与分布式系统,,Checking Concurrent Data Structures Under the C/C++11 Memory Model,"Peizhao Ou, University of California; et al.",https://dl.acm.org/doi/10.1145/3018743.3018749,
+2017,并行与分布式系统,,An Efficient Abortable-locking Protocol for Multi-level NUMA Systems,"Milind Chabbi, Hewlett Packard Labs; et al.",https://dl.acm.org/doi/10.1145/3018743.3018768,
+2017,并行与分布式系统,,Contention in Structured Concurrency: Provably Efficient Dynamic Non-Zero Indicators for Nested Parallelism,"Umut A. Acar, Carnegie Mellon University; et al.",https://dl.acm.org/doi/10.1145/3018743.3018762,
+2017,软件测试,,Noise Injection Techniques to Expose Subtle and Unintended Message Races,"Kento Sato, Lawrence Livermore National Laboratory; et al.",https://dl.acm.org/doi/10.1145/3018743.3018767,https://github.com/PRUNERS/NINJA
+2017,计算机体系结构,,Thread Data Sharing in Cache: Theory and Measurement,"Hao Luo, Google; et al.",https://dl.acm.org/doi/10.1145/3018743.3018759,
+2017,计算机体系结构,,"Exploiting Vector and Multicore Parallelism for Recursive, Data- and Task-Parallel Programs","Bin Ren, College of William and Mary; et al.",https://dl.acm.org/doi/10.1145/3018743.3018763,
+2017,计算机体系结构,,Isoefficiency in Practice: Configuring and Understanding the Performance of Task-based Applications,"Sergei Shudler, Technische Universität Darmstadt; et al.",https://dl.acm.org/doi/10.1145/3018743.3018770,
+2017,计算机体系结构,,Processor-Oblivious Record and Replay,"Robert Utterback, Washington University; et al.",https://dl.acm.org/doi/10.1145/3018743.3018764,https://github.com/wustl-pctg/PORRidge
+2017,计算机体系结构,,"Simple, Accurate, Analytical Time Modeling and Optimal Tile Size Selection for GPGPU Stencils","Nirmal Prajapati, Colorado State University; et al.",https://dl.acm.org/doi/10.1145/3018743.3018744,
+2017,程序语言与编译器,,Combining SIMD and Many/Multi-core Parallelism for Finite State Machines with Enumerative Speculation,"Peng Jiang, The Ohio State University; et al.",https://dl.acm.org/doi/10.1145/3018743.3018760,https://github.com/jiangohiostate/ppopp17_artifact
+2017,机器学习系统,,S-Caffe: Co-designing MPI Runtimes and Caffe for Scalable Deep Learning on Modern GPU Clusters,"Ammar Ahmad Awan, The Ohio State University; et al.",https://dl.acm.org/doi/10.1145/3018743.3018769,
+2017,并行与分布式系统,,Model-based Iterative CT Image Reconstruction on GPUs,"Amit Sabne, Microsoft; et al.",https://dl.acm.org/doi/10.1145/3018743.3018765,
+2017,并行与分布式系统,,Pagoda: Fine-Grained GPU Resource Virtualization for Narrow Tasks,"Tsung Tai Yeh, Purdue University; et al.",https://dl.acm.org/doi/10.1145/3018743.3018754,
+2017,计算机体系结构,,Groute: An Asynchronous Multi-GPU Programming Model for Irregular Computations,"Tal Ben-Nun, The Hebrew University of Jerusalem; et al.",https://dl.acm.org/doi/10.1145/3018743.3018756,https://github.com/groute/ppopp17-artifact
+2017,程序语言与编译器,,Tapir: Embedding Fork-Join Parallelism into LLVM's Intermediate Representation,"Tao B. Schardl, Massachusetts Institute of Technology; et al.",https://dl.acm.org/doi/10.1145/3018743.3018758,
+2017,并行与分布式系统,,A Multicore Path to Connectomics-on-Demand,"Alexander Matveev, Massachusetts Institute of Technology; et al.",https://dl.acm.org/doi/10.1145/3018743.3018766,
+2017,程序语言与编译器,,SC-Haskell: Sequential Consistency in Languages That Minimize Mutable Shared Heap,"Michael Vollmer, Indiana University; et al.",https://dl.acm.org/doi/10.1145/3018743.3018746,
+2017,程序语言与编译器,,Synchronized-by-Default Concurrency for Shared-Memory Systems,"Martin Bättig, ETH Zurich; et al.",https://dl.acm.org/doi/10.1145/3018743.3018747,
+2017,程序语言与编译器,,Function Call Re-Vectorization,"Rubens E.A. Moreira, UFMG; et al.",https://dl.acm.org/doi/10.1145/3018743.3018751,
+2017,程序语言与编译器,,Optimizing the Four-Index Integral Transform Using Data Movement Lower Bounds Analysis,"Samyam Rajbhandari, The Ohio State University; et al.",https://dl.acm.org/doi/10.1145/3018743.3018771,
+2017,大数据系统,,Using Butterfly-Patterned Partial Sums to Draw from Discrete Distributions,"Guy L. Steele, Oracle Labs; et al.",https://dl.acm.org/doi/10.1145/3018743.3018757,
+2017,大数据系统,,KiWi: A Key-Value Map for Scalable Real-Time Analytics,"Dmitry Basin, Yahoo Research; et al.",https://dl.acm.org/doi/10.1145/3018743.3018761,
+2017,大数据系统,,Grammar-aware Parallelization for Scalable XPath Querying,"Lin Jiang, UC Riverside; et al.",https://dl.acm.org/doi/10.1145/3018743.3018772,
+2017,并行与分布式系统,,Eunomia: Scaling Concurrent Search Trees under Contention Using HTM,"Xin Wang, Fudan University; et al.",https://dl.acm.org/doi/10.1145/3018743.3018752,
+2017,计算机体系结构,,Self-Checkpoint: An In-Memory Checkpoint Method Using Less Space and Its Practice on Fault-Tolerant HPL,"Xiongchao Tang, Tsinghua University; et al.",https://dl.acm.org/doi/10.1145/3018743.3018745,https://github.com/thu-pacman/self-checkpoint/
+2017,计算机体系结构,,Silent Data Corruption Resilient Two-sided Matrix Factorizations,"Panruo Wu, University of California; et al.",https://dl.acm.org/doi/10.1145/3018743.3018750,
+2016,机器学习系统,,Coarse Grain Parallelization of Deep Neural Networks,"Marc Gonzalez Tallada, UPC; et al.",https://dl.acm.org/doi/10.1145/3016078.2851158,
+2016,机器学习系统,,High Performance Model Based Image Reconstruction,"Xiao Wang, Purdue University; et al.",https://dl.acm.org/doi/10.1145/2851141.2851163,
+2016,机器学习系统,,Exploiting Accelerators for Efficient High Dimensional Similarity Search,"Sandeep Agrawal, Oracle Labs; et al.",https://dl.acm.org/doi/10.1145/2851141.2851144,
+2016,程序语言与编译器,,Declarative Coordination of Graph-Based Parallel Programs,"Flávio Cruz, University of Porto; et al.",https://dl.acm.org/doi/10.1145/2851141.2851153,https://github.com/flavioc/meld
+2016,程序语言与编译器,,Distributed Halide,"Tyler Denniston, MIT; et al.",https://dl.acm.org/doi/10.1145/2851141.2851157,
+2016,程序语言与编译器,,Parallel Type-checking with Haskell using Saturating LVars and Stream Generators,"Ryan R. Newton, Indiana University; et al.",https://dl.acm.org/doi/10.1145/2851141.2851142,
+2016,并行与分布式系统,,Articulation Point Guided Redundancy Elimination for Betweenness Centrality,"Lei Wang, Institute of Computing Technology; et al.",https://dl.acm.org/doi/10.1145/2851141.2851154,
+2016,并行与分布式系统,,Multi-Core On-The-Fly SCC Decomposition,"Vincent Bloemen, University of Twente; et al.",https://dl.acm.org/doi/10.1145/2851141.2851161,https://github.com/utwente-fmt/ppopp16
+2016,并行与分布式系统,,A High-Performance Parallel Algorithm for Nonnegative Matrix Factorization,"Ramakrishnan Kannan, Georgia Institute of Technology; et al.",https://dl.acm.org/doi/10.1145/2851141.2851152,
+2016,并行与分布式系统,,Autogen: Automatic Discovery of Cache-Oblivious Parallel Recursive Algorithms for Solving Dynamic Programs,"Rezaul Chowdhury, Stony Brook University; et al.",https://dl.acm.org/doi/10.1145/2851141.2851167,
+2016,机器学习系统,,Gunrock: A High-Performance Graph Processing Library on the GPU,"Yangzihao Wang, University of California; et al.",https://dl.acm.org/doi/10.1145/2851141.2851145,https://gunrock.github.io/docs/
+2016,机器学习系统,,GPU Multisplit,"Saman Ashkiani, University of California; et al.",https://dl.acm.org/doi/10.1145/2851141.2851169,
+2016,机器学习系统,,Keep Calm and React with Foresight: Strategies for Low-Latency and Energy-Efficient Elastic Data Stream Processing,"Tiziano De Matteis, University of Pisa; et al.",https://dl.acm.org/doi/10.1145/2851141.2851148,https://github.com/TizianoDeMatteis/elastic-hft
+2016,机器学习系统,,Work Stealing for Interactive Services to Meet Target Latency,"Jing Li Washington, University in St; et al.",https://dl.acm.org/doi/10.1145/2851141.2851151,
+2016,并行与分布式系统,,Adding Approximate Counters,"Guy L. Steele, Oracle Labs; et al.",https://dl.acm.org/doi/10.1145/2851141.2851147,
+2016,并行与分布式系统,,A Wait-Free Queue as Fast as Fetch-and-Add,"Chaoran Yang, Rice University; et al.",https://dl.acm.org/doi/10.1145/3016078.2851168,https://github.com/chaoran/fast-wait-free-queue
+2016,并行与分布式系统,,Lease/release: architectural support for scaling contended data structures,"Syed Kamran Haider, University of Connecticut; et al.",https://dl.acm.org/doi/10.1145/3016078.2851155,
+2016,并行与分布式系统,,Optimistic Concurrency with OPTIK,"Rachid Guerraoui, EPFL; et al.",https://dl.acm.org/doi/10.1145/3016078.2851146,https://github.com/LPD-EPFL/ssmem
+2016,并行与分布式系统,,Refined Transactional Lock Elision,"Dave Dice, Oracle Labs; et al.",https://dl.acm.org/doi/10.1145/3016078.2851162,
+2016,并行与分布式系统,,Drinking from Both Glasses: Combining Pessimistic and Optimistic Tracking of Cross-Thread Dependences,"Man Cao, Ohio State University; et al.",https://dl.acm.org/doi/10.1145/3016078.2851143,
+2016,并行与分布式系统,,Be My Guest - MCS Lock Now Welcomes Guests,"Tianzheng Wang, University of Toronto; et al.",https://dl.acm.org/doi/10.1145/3016078.2851160,https://github.com/HewlettPackard/foedus_code
+2016,并行与分布式系统,,"Contention-Conscious, Locality-Preserving Locks","Milind Chabbi, Hewlett Packard Labs; et al.",https://dl.acm.org/doi/10.1145/3016078.2851166,
+2016,并行与分布式系统,,DomLock: A New Multi-Granularity Locking Technique for Hierarchies,"Saurabh Kalikar, IIT Madras; et al.",https://dl.acm.org/doi/10.1145/3016078.2851164,http://pace.cse.iitm.ac.in/tools.php
+2016,并行与分布式系统,,Benchmarking Weak Memory Models,"Carl Ritson, University of Kent; et al.",https://dl.acm.org/doi/10.1145/3016078.2851150,
+2016,并行与分布式系统,,The Virtues of Conflict: Analysing Modern Concurrency,"Ganesh Narayanswamy, Department of Computer Science; et al.",https://dl.acm.org/doi/10.1145/3016078.2851165,https://github.com/gan237/walcyrie
+2016,并行与分布式系统,,Causal Consistency: Beyond Memory,"Matthieu Perrin, University of Nantes; et al.",https://dl.acm.org/doi/10.1145/3016078.2851170,
+2016,计算机体系结构,,ESTIMA: Extrapolating ScalabiliTy of In-Memory Applications,"Georgios Chatzopoulo, EPFL; et al.",https://dl.acm.org/doi/10.1145/3016078.2851159,
+2016,计算机体系结构,,Grain Graphs: OpenMP Performance Analysis Made Easy,"Ananya Muddukrishna, KTH Royal Institute of Technology; et al.",https://dl.acm.org/doi/10.1145/3016078.2851156,
+2016,计算机体系结构,,Production-guided Concurrency Debugging,"Nuno Machado, Universidade de Lisboa; et al.",https://dl.acm.org/doi/10.1145/3016078.2851149,https://github.com/nunomachado/cortex-tool
+2015,并行与分布式系统,,"More than you ever wanted to know about synchronization: synchrobench, measuring the impact of the synchronization on concurrent algorithms","
+Vincent Gramoli, NICTA; et al.",https://dl.acm.org/doi/abs/10.1145/2688500.2688501,https://github.com/gramoli/synchrobench
+2015,并行与分布式系统,,The SprayList: a scalable relaxed priority queue,"Dan Alistarh, Microsoft Research; et al.",https://dl.acm.org/doi/abs/10.1145/2688500.2688523,https://github.com/jkopinsky/SprayList
+2015,并行与分布式系统,,Predicate RCU: an RCU for scalable concurrent updates,"Maya Arbel, Technion; et al.",https://dl.acm.org/doi/abs/10.1145/2858788.2688518,https://github.com/philip-w-howard/RP-Red-Black-Tree
+2015,并行与分布式系统,,A Framework for Practical Parallel Fast Matrix Multiplication,"Austin R Benson, Stanford University; et al.",https://dl.acm.org/doi/abs/10.1145/2858788.2688513,https://github.com/arbenson/fast-matmul
+2015,并行与分布式系统,,NUMA-aware Graph-structured Analytics,"Kaiyuan Zhang, Shanghai Jiao Tong University; et al.",https://dl.acm.org/doi/abs/10.1145/2688500.2688507,https://github.com/realstolz/polymer
