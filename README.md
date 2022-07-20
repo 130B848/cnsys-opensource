@@ -1,4 +1,4 @@
-# CNSys学术开源索引
+# ChinaSys学术开源索引
 
 ## 为什么需要学术开源索引？
 
@@ -10,7 +10,7 @@
 
 ## 如何贡献？
 
-如果您有个开源或发现了个不错的学术开源项目，我们欢迎您以`Pull request`的形式将相关信息提交到本站点。
+如果您的学术项目已经开源或发现了不错的学术开源项目，我们欢迎您以`pull request`的形式将相关信息提交到本站点。
 一旦合并，该项目将会出现在学术开源索引的[官方网站](https://chinasys.org/opensource/program-index.html)上。
 
 ## 提交流程
@@ -46,6 +46,6 @@ Tag：为了方便聚类，我们建议您从tag列表中选择合适的子类�
 
 ## 致谢
 
-本网站致谢CCF和CNSys的大力支持。感谢[组委会](https://chinasys.org/opensource/faculty.html)的所有成员。
+本网站致谢CCF和ChinaSys的大力支持。感谢[组委会](https://chinasys.org/opensource/faculty.html)的所有成员。
 
 感谢志愿者：徐经纬、杨志伟、袁璟睿、谢旻晖、张家坤、张祎、刘朕、张津源、李明煜（排名不分先后）。
