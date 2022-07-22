@@ -4,9 +4,9 @@
 
 学术开源对系统研究的重要性不言而喻。
 
-近年来，越来越多的会议鼓励学术开源，并设立了专门的[Artifact Evaluation](https://artifact-eval.org/)流程，[以确保学术开源的质量](https://zhuanlan.zhihu.com/p/460805807)。
+近年来，越来越多的会议鼓励学术开源，并设立了专门的Artifact Evaluation (AE)流程，[以确保学术开源的质量](https://zhuanlan.zhihu.com/p/460805807)。
 
-[“学术开源索引”网站](https://chinasys.org/opensource/program-index.html)搜集了一系列系统研究相关的学术开源成果，旨在方便系统研究者检索和学习。目前索引内容仍在不断更新和完善中。
+ChinaSys[“学术开源索引”](https://chinasys.org/opensource/program-index.html)搜集了一系列系统研究相关的学术开源成果，旨在方便系统研究者检索和学习。目前索引内容仍在不断更新和完善中。
 
 ## 如何贡献？
 
@@ -197,6 +197,6 @@ Tag：为了方便聚类，我们建议您从tag列表中选择合适的子类�
 
 ## 致谢
 
-本网站致谢CCF和ChinaSys的大力支持。感谢[组委会](https://chinasys.org/opensource/faculty.html)的所有成员。
+感谢CCF和ChinaSys的大力支持。感谢[组委会](https://chinasys.org/opensource/faculty.html)的所有成员。
 
 感谢志愿者：徐经纬、杨志伟、袁璟睿、谢旻晖、张家坤、张祎、刘朕、张津源、李明煜（排名不分先后）。
